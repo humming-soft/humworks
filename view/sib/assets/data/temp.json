@@ -1,0 +1,198 @@
+
+"CNN01": {
+"name": "CNN01",
+"label": "CNN01",
+"address": "Green End, Cambridge, Cambridgshire CB5 8SX",
+"website": "http://www.theploughfenditton.co.uk/",
+"phone": "01223 293264",
+"position": {
+"lat": 52.224075,
+"lon": 0.16823
+}
+},
+"CNN02": {
+"name": "CNN02",
+"label": "CNN02",
+"address": "129 Chesterton Rd, Cambridge CB4 3BA",
+"website": "http://www.theportlandarms.co.uk/",
+"phone": "01223 357268",
+"position": {
+"lat": 52.214426,
+"lon": 0.124525
+}
+},
+"CNN03": {
+"name": "CNN03",
+"label": "CNN03",
+"address": "91 Regent St, Cambridge, CB2 1AW",
+"website": "http://www.princeregent-cambridge.co.uk/",
+"phone": "01223 505030",
+"position": {
+"lat": 52.199934,
+"lon": 0.126909
+}
+},
+"CNN04": {
+"name": "CNN04",
+"label": "CNN04",
+"place_id": "ChIJIwqxlbhw2EcRQYT52kWYXhQ",
+"address": "3 Pound Hill, Cambridge CB3 0AE",
+"website": "http://www.thepuntercambridge.com/",
+"phone": "01223 363322",
+"position": {
+"lat": 52.210552,
+"lon": 0.113281
+}
+},
+"CNN05": {
+"name": "CNN05",
+"label": "CNN05",
+"address": "Wulfstan Way, Cambridge, CB1 8QN",
+"website": "https://www.individualpubs.co.uk/queenedith/",
+"phone": "01223 244536",
+"position": {
+"lat": 52.180264,
+"lon": 0.152927
+}
+},
+"CNN06": {
+"name": "CNN06",
+"label": "CNN06",
+"address": "11 Barton Rd, Newnham, Cambridge CB3 9JZ",
+"phone": "01223 300943",
+"position": {
+"lat": 52.196487,
+"lon": 0.108657
+}
+},
+"CNN07": {
+"name": "CNN07",
+"label": "CNN07",
+"address": "33 High St, Grantchester, Cambridge CB3 9NF",
+"website": "http://www.redliongrantchester.co.uk/",
+"phone": "01223 840121",
+"position": {
+"lat": 52.180343,
+"lon": 0.095603
+}
+},
+"CNN08": {
+"name": "CNN08",
+"label": "CNN08",
+"address": "38-39 St Andrew's St, Cambridge, Cambridgeshire CB2 3AR",
+"website":
+"https://www.jdwetherspoon.com/pubs/all-pubs/england/cambridgeshire/the-regal-cambridge",
+"phone": "01223 366459",
+"position": {
+"lat": 52.202947,
+"lon": 0.123806
+}
+},
+"CNN09": {
+"name": "CNN09",
+"label": "CNN09",
+"address": "200 Cherry Hinton Rd, Cambridge CB1 7AW",
+"website": "http://www.rock-cambridge.co.uk/",
+"phone": "01223 505005",
+"position": {
+"lat": 52.187503,
+"lon": 0.146716
+}
+},
+"CNN10": {
+"name": "CNN10",
+"label": "CNN10",
+"address": "292 16S12 Rd, Cambridge CB1 3NL",
+"website": "http://royalstandardcambridge.com/",
+"phone": "01223 569065",
+"position": {
+"lat": 52.197,
+"lon": 0.149764
+}
+},
+"CNN11": {
+"name": "CNN11",
+"label": "CNN11",
+"address": "2 Broadway, Grantchester CB3 9NQ",
+"website": "http://www.therupertbrooke.com/",
+"phone": "01223 841875",
+"position": {
+"lat": 52.181132,
+"lon": 0.093629
+}
+},
+"CNN12": {
+"name": "CNN12",
+"label": "CNN12",
+"address": "76 Tenison Rd, Cambridge, CB1 2DW",
+"website": "http://www.salisburyarmscambridge.co.uk/",
+"phone": "01223 576363",
+"position": {
+"lat": 52.198305,
+"lon": 0.135435
+}
+},
+"CNN13": {
+"name": "CNN13",
+"label": "CNN13",
+"address": "Northfields Ave, Cambridge CB4 2LG",
+"phone": "01223 314445",
+"position": {
+"lat": 52.231224,
+"lon": 0.128837
+}
+},
+"CNN14": {
+"name": "CNN14",
+"label": "CNN14",
+"address": "84 Castle St, Cambridge CB3 0AJ",
+"website": "http://www.sirisaacnewton-cambridge.co.uk/",
+"phone": "01223 305555",
+"position": {
+"lat": 52.213338,
+"lon": 0.112072
+}
+},
+"CNN15": {
+"name": "CNN15",
+"label": "CNN15",
+"address": "11 Covent Garden, Cambridge CB1 2HS",
+"website": "http://sixbellspub.co.uk/",
+"phone": "01223 355559",
+"position": {
+"lat": 52.200395,
+"lon": 0.134442
+}
+},
+"CN16": {
+"name": "CN16",
+"label": "CN16",
+"address": "129 King St, Cambridge, CB1 1LD",
+"phone": "01223 311794",
+"position": {
+"lat": 52.207616,
+"lon": 0.126733
+}
+},
+"CN17": {
+"name": "CN17",
+"label": "CN17",
+"address": "3-5 Dover St, Cambridge CB1 1DY",
+"website": "https://sites.google.com/site/tramdepotcambs/",
+"phone": "01223 324553",
+"position": {
+"lat": 52.204638,
+"lon": 0.132827
+}
+},
+"CN18": {
+"name": "CN18",
+"label": "CN18",
+"address": "32 Chesterton Rd, Cambridge CB4 3AX",
+"website": "http://www.thewaterman-cambridge.co.uk/",
+"phone": "01223 323813",
+"position": {
+"lat": 52.214166,
+"lon": 0.125526
+}
+}

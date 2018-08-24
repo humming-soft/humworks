@@ -1,0 +1,69 @@
+div.panel-info a.iv_station,div.panel-info a.iv_mspr {
+    margin: 5px 0;
+}
+a.item_value {
+    display: block;
+    font-size: 1.2em;
+}
+a.item_value i {
+    border: 2px solid #37474f;
+    padding: 5px;
+    color: #37474f;
+}
+
+
+span.iv_baseline {
+    padding: 0 0 0 5px;
+    border-left: 3px solid #0f9;
+}
+span.iv_kpitarget {
+    padding: 0 0 0 5px;
+    border-left: 3px solid #b7f;
+}
+span.iv_shortfall {
+    padding: 0 0 0 5px;
+    border-left: 3px solid #ff0;
+}
+span.iv_actualprogress {
+    padding: 0 0 0 5px;
+    border-left: 3px solid #f60;
+}
+
+span.scurve_arrow {
+    padding: 0 5px;
+    font-size: 1.2em;
+    display: block;
+    position: absolute;
+    top: 9px;
+    right: 12px;
+    border-radius: 5px;
+    background: #113;
+}
+a.scurve_arrow {
+    padding: 0 5px;
+    font-size: 1.2em;
+    display: block;
+    position: absolute;
+    top: 9px;
+    right: 12px;
+    border-radius: 5px;
+    background: #113;
+    color:#fff;
+    text-decoration:none;
+}
+a.scurve_arrow:focus,
+a.scurve_arrow:hover,
+a.scurve_arrow:active{
+    color:#fff;
+    text-decoration:none;
+}
+
+span.scurve_arrow_up {
+    color: #9f3;
+}
+span.scurve_arrow_down {
+    color: #f59;
+}
+
+
+/*

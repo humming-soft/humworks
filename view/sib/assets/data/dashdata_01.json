@@ -1,0 +1,828 @@
+{
+  "stations": {
+    "TPP26": {
+      "name": "TPP26",
+      "label": "TPP26",
+      "place_id": "ChIJaVrou4hw2EcROetQMMOP12M",
+      "address": "22 Gwydir St, Cambridge CB1 2LL",
+      "website": "http://www.thealexcambridge.com/",
+      "phone": "01223 324441",
+      "position": {
+        "lat": 52.20386,
+        "lon": 0.139356
+      }
+    },
+    "TPP27": {
+      "name": "TPP27",
+      "label": "TPP27",
+      "place_id": "ChIJF5v8q55w2EcRWbfRNUQNPmE",
+      "address": "26 Russel Court, Cambridge, CB2 1HW",
+      "website": "http://www.thealmacambridge.co.uk/",
+      "phone": "01223 316722",
+      "position": {
+        "lat": 52.195982,
+        "lon": 0.125493
+      }
+    },
+    "TPP28": {
+      "name": "TPP28",
+      "label": "TPP28",
+      "place_id": "hIJocwdyrxw2EcRnogp-KBkY_o",
+      "address": "Silver Street, Cambridge, CB3 9EL",
+      "website": "http://www.anchorcambridge.com",
+      "phone": "01223 353554",
+      "position": {
+        "lat": 52.201999,
+        "lon": 0.115758
+      }
+    },
+    "TPP29": {
+      "name": "TPP29",
+      "label": "TPP29",
+      "place_id": "ChIJI5agpzlw2EcR55ZT5vZy_ok",
+      "address": "5 High St, Fen Ditton, Cambridge, CB5 8ST",
+      "website": "http://www.theancientshepherds.co.uk/",
+      "phone": "01223 293280",
+      "position": {
+        "lat": 52.220375,
+        "lon": 0.172721
+      }
+    },
+    "TPP30": {
+      "name": "TPP30",
+      "label": "TPP30",
+      "place_id": "ChIJX3Dbo7hw2EcR4iVxgX74BlU",
+      "address": "43 Castle St, Cambridge, CB3 0AH",
+      "website": "http://www.thearchitectcambridge.co.uk/",
+      "phone": "01223 563779",
+      "position": {
+        "lat": 52.212078,
+        "lon": 0.113155
+      }
+    },
+    "TPP31": {
+      "name": "TPP31",
+      "label": "TPP31",
+      "place_id": "ChIJVeAxW75w2EcRkM91IuEN_oU",
+      "address": "19 Bridge St, Cambridge CB2 1UF",
+      "website": "http://www.baronofbeef-cambridge.co.uk/",
+      "phone": "01223 505022",
+      "position": {
+        "lat": 52.208893,
+        "lon": 0.118118
+      }
+    },
+    "TPP32": {
+      "name": "TPP32",
+      "label": "TPP32",
+      "address": "3 Benet Street, Cambridge, CB2 3QN",
+      "website": "http://www.bathhouse-cambridge.co.uk/",
+      "phone": "01223 350969",
+      "position": {
+        "lat": 52.204073,
+        "lon": 0.118459
+      }
+    },
+    "TPP33": {
+      "name": "TPP33",
+      "label": "TPP33",
+      "address": "57 Broadway, Grantchester, Cambridge CB3 9NQ",
+      "website": "http://www.blueballgrantchester.co.uk/",
+      "phone": "01223 846004",
+      "position": {
+        "lat": 52.183303,
+        "lon": 0.09408
+      }
+    },
+    "TPP34": {
+      "name": "TPP34",
+      "label": "TPP34",
+      "address": "2 Norfolk St, Cambridge CB1 2LF",
+      "website": "https://www.facebook.com/bluemooncambridge/",
+      "phone": "01223 500238",
+      "position": {
+        "lat": 52.204781,
+        "lon": 0.136648
+      }
+    },
+    "TPP35": {
+      "name": "TPP35",
+      "label": "TPP35",
+      "address": "14 Chesterton Rd, Cambridge CB4 3AX",
+      "website": "http://www.boathouse-cambridge.co.uk/",
+      "phone": "01223 460905",
+      "position": {
+        "lat": 52.213719,
+        "lon": 0.123523
+      }
+    },
+    "TPP36": {
+      "name": "TPP36",
+      "label": "TPP36",
+      "address": "1 King St, Cambridge CB1 1LH",
+      "website": "http://www.thecambridgebrewhouse.com/",
+      "phone": "01223 855185",
+      "position": {
+        "lat": 52.207412,
+        "lon": 0.122225
+      }
+    },
+    "TPP37": {
+      "name": "TPP37",
+      "label": "TPP37",
+      "address": "25 TPP37fields, Cambridge CB1 3NW",
+      "website": "http://www.thebrookpub.co.uk/",
+      "phone": "01223 566929",
+      "position": {
+        "lat": 52.196072,
+        "lon": 0.155429
+      }
+    },
+    "TPPN38": {
+      "name": "TPPN38",
+      "label": "TPPN38",
+      "address": "9-11 Newmarket Rd, Cambridge CB5 8EG",
+      "website": "http://www.burleigharmscambridge.co.uk/",
+      "phone": "01223 301547",
+      "position": {
+        "lat": 52.208184,
+        "lon": 0.132854
+      }
+    },
+    "TPP39": {
+      "name": "TPP39",
+      "label": "TPP39",
+      "address": "85-87 Gwydir St, Cambridge CB1 2LG",
+      "website": "http://www.the-cambridgeblue.co.uk/",
+      "phone": "01223 471680",
+      "position": {
+        "lat": 52.202328,
+        "lon": 0.139173
+      }
+    },
+    "TPP40": {
+      "name": "TPP40",
+      "label": "TPP40",
+      "address": "Carlton Way, Cambridge CB4 2DF",
+      "website": "http://thecarltonarmscambridge.co.uk/",
+      "phone": "01223 367422",
+      "position": {
+        "lat": 52.222048,
+        "lon": 0.114374
+      }
+    },
+    "TPP41": {
+      "name": "TPP41",
+      "label": "TPP41",
+      "address": "184-186 Victoria Rd, Cambridge, CB4 3DZ",
+      "website": "http://www.carpentersarmscambridge.co.uk/",
+      "phone": "01223 367050",
+      "position": {
+        "lat": 52.21576,
+        "lon": 0.114374
+      }
+    },
+    "TPP42": {
+      "name": "TPP42",
+      "label": "TPP42",
+      "place_id": "ChIJoccoXsdw2EcROG63agLdFi4",
+      "address": "38 Castle St, City Centre, Cambridge CB3 0AJ",
+      "website": "http://thecastleinncambridge.com/",
+      "phone": "01223 353194",
+      "position": {
+        "lat": 52.211945,
+        "lon": 0.113552
+      }
+    },
+    "TPP43": {
+      "name": "TPP43",
+      "label": "TPP43",
+      "address": "68 King St, Cambridge CB1 1LN",
+      "position": {
+        "lat": 52.207328,
+        "lon": 0.124451
+      }
+    },
+    "TPP44": {
+      "name": "TPP44",
+      "label": "TPP44",
+      "address": "35-36 Clarendon St, Cambridge CB1 1JX",
+      "phone": "01223 778272",
+      "position": {
+        "lat": 52.20465,
+        "lon": 0.127679
+      }
+    },
+    "TPP45": {
+      "name": "TPP45",
+      "label": "TPP45",
+      "address": "231 Newmarket Rd, Cambridge CB5 8JE",
+      "phone": "01223 352047",
+      "position": {
+        "lat": 52.209485,
+        "lon": 0.143369
+      }
+    },
+    "TPP46": {
+      "name": "TPP46",
+      "label": "TPP46",
+      "address": "18 Melbourne Pl, Cambridge CB1 1EQ",
+      "website": "http://lukthai.com/",
+      "phone": "01223 778871",
+      "position": {
+        "lat": 52.204954,
+        "lon": 0.129559
+      }
+    },
+    "TPP47": {
+      "name": "TPP47",
+      "label": "TPP47",
+      "address": "1B Devonshire Rd, Cambridge, CB1 2BH",
+      "website": "https://www.individualpubs.co.uk/devonshire/",
+      "phone": "01223 316610",
+      "position": {
+        "lat": 52.198924,
+        "lon": 0.139079
+      }
+    },
+    "TPP48": {
+      "name": "TPP48",
+      "label": "TPP48",
+      "address": "184 Sturton St, Cambridge, CB1 2QF",
+      "website": "http://www.thedobblers.com/",
+      "phone": "01223 576092",
+      "position": {
+        "lat": 52.205422,
+        "lon": 0.140016
+      }
+    },
+    "TPP49": {
+      "name": "TPP49",
+      "label": "TPP49",
+      "address": "176 East Rd, Cambridge CB1 1BG",
+      "website": "http://www.dukeofcambridge-cambridge.co.uk/",
+      "phone": "01223 304121",
+      "position": {
+        "lat": 52.204871,
+        "lon": 0.133633
+      }
+    },
+    "TPP50": {
+      "name": "TPP50",
+      "label": "TPP50",
+      "address": "8 Benet Street, Cambridge, CB2 3QN",
+      "website": "http://www.eagle-cambridge.co.uk/",
+      "phone": "01223 505020",
+      "position": {
+        "lat": 52.203974,
+        "lon": 0.118044
+      }
+    },
+    "TPP51": {
+      "name": "TPP51",
+      "label": "TPP51",
+      "address": "133 16S12 Rd, Cambridge CB1 3AA",
+      "website": "http://www.earlofbeaconsfield.co.uk/",
+      "phone": "01223 410703",
+      "position": {
+        "lat": 52.198414,
+        "lon": 0.142186
+      }
+    },
+    "TPP52": {
+      "name": "TPP52",
+      "label": "TPP52",
+      "address": "129 Hills Rd, Cambridge CB2 1PG",
+      "website": "http://www.theearlofderby.com/",
+      "phone": "01223 352785",
+      "position": {
+        "lat": 52.192092,
+        "lon": 0.134079
+      }
+    },
+    "TPP53": {
+      "name": "TPP53",
+      "label": "TPP53",
+      "address": "16A Orchard St, Cambridge CB1 1JT",
+      "website": "http://www.theelmtreecambridge.co.uk/",
+      "phone": "01223 502632",
+      "position": {
+        "lat": 52.205124,
+        "lon": 0.129503
+      }
+    },
+    "TPP54": {
+      "name": "TPP54",
+      "label": "TPP54",
+      "address": "72 Thoday St, Cambridge, CB1 3AX",
+      "phone": "01223 247236",
+      "position": {
+        "lat": 52.199158,
+        "lon": 0.147212
+      }
+    },
+    "TPP55": {
+      "name": "TPP55",
+      "label": "TPP55",
+      "address": "106 Hills Rd, Cambridge, CB2 1LQ",
+      "phone": "01223 354623",
+      "position": {
+        "lat": 52.194474,
+        "lon": 0.131747
+      }
+    },
+    "TPP56": {
+      "name": "TPP56",
+      "label": "TPP56",
+      "address": "Cambridge CB4 1HA",
+      "website": "http://www.fortstgeorge-cambridge.co.uk/",
+      "phone": "01223 305523",
+      "position": {
+        "lat": 52.212511,
+        "lon": 0.127802
+      }
+    },
+    "TPP57": {
+      "name": "TPP57",
+      "label": "TPP57",
+      "address": "7 Prospect Row, Cambridge, CB1 1DU",
+      "website": "http://www.freepresspub.com/",
+      "phone": "01223 368337",
+      "position": {
+        "lat": 52.20474,
+        "lon": 0.130385
+      }
+    },
+    "TPP58": {
+      "name": "TPP58",
+      "label": "TPP58",
+      "address": "1 Ainsworth St, Cambridge, CB1 2PF",
+      "website": "http://www.the-geldart.co.uk/",
+      "phone": "01223 314264",
+      "position": {
+        "lat": 52.203696,
+        "lon": 0.142231
+      }
+    },
+    "TPP59": {
+      "name": "TPP59",
+      "label": "TPP59",
+      "address": "355 Milton Rd, Cambridge, CB4 1SP",
+      "website": "http://www.golden-hind-pub-cambridge.co.uk/",
+      "phone": "01223 420816",
+      "position": {
+        "lat": 52.227922,
+        "lon": 0.145524
+      }
+    },
+    "TPP60": {
+      "name": "TPP60",
+      "label": "TPP60",
+      "address": "69-76 Regent St, Cambridge CB2 1AA",
+      "website": "http://www.grainandhopstore-cambridge.co.uk/",
+      "phone": "01223 323405",
+      "position": {
+        "lat": 52.200689,
+        "lon": 0.126622
+      }
+    }
+  },
+  "lines": [
+    {
+      "name": "TPPTrack",
+      "label": "TPPTrack",
+      "color": "#FF1100",
+      "shiftCoords": [0, 0],
+      "nodes": [
+        {
+          "coords": [-23, -46],
+          "marker": "interchange",
+          "name": "TPP26",
+          "labelPos": "E",
+          "canonical": true
+        },
+        {
+          "coords": [-22, -43]
+        },
+        {
+          "coords": [-22, -43],
+          "marker": "interchange",
+          "name": "TPP27",
+          "labelPos": "W",
+          "canonical": true
+        },
+        {
+          "coords": [-21, -40]
+        },
+        {
+          "coords": [-21, -40],
+          "marker": "interchange",
+          "name": "TPP28",
+          "labelPos": "E",
+          "canonical": true
+        },
+        {
+          "coords": [-20, -37]
+        },
+        {
+          "coords": [-20, -37],
+          "marker": "interchange",
+          "name": "TPP29",
+          "labelPos": "W",
+          "canonical": true
+        },
+        {
+          "coords": [-19, -34]
+        },
+        {
+          "coords": [-19, -34],
+          "marker": "interchange",
+          "name": "TPP30",
+          "labelPos": "W",
+          "canonical": true
+        },
+        {
+          "coords": [-18, -31]
+        },
+        {
+          "coords": [-18, -31],
+          "marker": "interchange",
+          "name": "TPP31",
+          "labelPos": "E",
+          "canonical": true
+        },
+        {
+          "coords": [-17.5, -30]
+        },
+        {
+          "coords": [-16, -28],
+          "marker": "interchange",
+          "name": "TPP32",
+          "labelPos": "W",
+          "canonical": true
+        },
+        {
+          "coords": [-13, -26]
+        },
+        {
+          "coords": [-13, -26],
+          "marker": "interchange",
+          "name": "TPP33",
+          "labelPos": "W",
+          "canonical": true
+        },
+        {
+          "coords": [-10, -24]
+        },
+        {
+          "coords": [-10, -24],
+          "marker": "interchange",
+          "name": "TPP34",
+          "labelPos": "W",
+          "canonical": true
+        },
+        {
+          "coords": [-11.5, -21]
+        },
+        {
+          "coords": [-11.5, -21],
+          "marker": "interchange",
+          "name": "TPP35",
+          "labelPos": "W",
+          "canonical": true
+        },{
+          "coords": [-13, -18]
+        },
+        {
+          "coords": [-13, -18],
+          "marker": "interchange",
+          "name": "TPP36",
+          "labelPos": "W",
+          "canonical": true
+        },{
+          "coords": [-14.5, -15]
+        },
+        {
+          "coords": [-14.5, -15],
+          "marker": "interchange",
+          "name": "TPP37",
+          "labelPos": "W",
+          "canonical": true
+        },{
+          "coords": [-16, -12]
+        },
+        {
+          "coords": [-16, -12],
+          "marker": "interchange",
+          "name": "TPPN38",
+          "labelPos": "W",
+          "canonical": true
+        },{
+          "coords": [-17.5, -9]
+        },
+        {
+          "coords": [-17.5, -9],
+          "marker": "interchange",
+          "name": "TPP39",
+          "labelPos": "W",
+          "canonical": true
+        },
+        {
+          "coords": [-17.5, -6],
+          "marker": "interchange",
+          "name": "TPP40",
+          "labelPos": "W",
+          "canonical": true
+        },
+        {
+          "coords": [-15, -3],
+          "marker": "interchange",
+          "name": "TPP41",
+          "labelPos": "E",
+          "canonical": true
+        },
+        {
+          "coords": [-12, 0],
+          "marker": "interchange",
+          "name": "TPP42",
+          "labelPos": "W",
+          "canonical": true
+        },
+        {
+          "coords": [-9, 0],
+          "marker": "interchange",
+          "name": "TPP43",
+          "labelPos": "W",
+          "canonical": true
+        },
+        {
+          "coords": [-6, 0],
+          "marker": "interchange",
+          "name": "TPP44",
+          "labelPos": "W",
+          "canonical": true
+        },
+        {
+          "coords": [-3, 0],
+          "marker": "interchange",
+          "name": "TPP45",
+          "labelPos": "W",
+          "canonical": true
+        },
+        {
+          "coords": [0, 0],
+          "marker": "interchange",
+          "name": "TPP46",
+          "labelPos": "W",
+          "canonical": true
+        },
+        {
+          "coords": [3, 0],
+          "marker": "interchange",
+          "name": "TPP47",
+          "labelPos": "W",
+          "canonical": true
+        },
+        {
+          "coords": [6, 0],
+          "marker": "interchange",
+          "name": "TPP48",
+          "labelPos": "W",
+          "canonical": true
+        },
+        {
+          "coords": [9, 0],
+          "marker": "interchange",
+          "name": "TPP49",
+          "labelPos": "W",
+          "canonical": true
+        },
+        {
+          "coords": [12, 0],
+          "marker": "interchange",
+          "name": "TPP50",
+          "labelPos": "W",
+          "canonical": true
+        },
+        {
+          "coords": [15, 0],
+          "marker": "interchange",
+          "name": "TPP51",
+          "labelPos": "E",
+          "canonical": true
+        },
+        {
+          "coords": [18, 0],
+          "marker": "interchange",
+          "name": "TPP52",
+          "labelPos": "W",
+          "canonical": true
+        },
+        {
+          "coords": [19, 0]
+        },
+        {
+          "coords": [21, 1.5],
+          "marker": "interchange",
+          "name": "TPP53",
+          "labelPos": "W",
+          "canonical": true
+        },
+        {
+          "coords": [23, 4],
+          "marker": "interchange",
+          "name": "TPP54",
+          "labelPos": "W",
+          "canonical": true
+        },
+        {
+          "coords": [25, 6.5],
+          "marker": "interchange",
+          "name": "TPP55",
+          "labelPos": "W",
+          "canonical": true
+        },
+        {
+          "coords": [27, 9],
+          "marker": "interchange",
+          "name": "TPP56",
+          "labelPos": "W",
+          "canonical": true
+        },
+        {
+          "coords": [29.5, 12]
+        },
+        {
+          "coords": [29.5, 12],
+          "marker": "interchange",
+          "name": "TPP57",
+          "labelPos": "W",
+          "canonical": true
+        },
+        {
+          "coords": [33, 12],
+          "marker": "interchange",
+          "name": "TPP58",
+          "labelPos": "N",
+          "canonical": true
+        },
+        {
+          "coords": [36, 12],
+          "marker": "interchange",
+          "name": "TPP59",
+          "labelPos": "N",
+          "canonical": true
+        },
+        {
+          "coords": [39, 12],
+          "marker": "interchange",
+          "name": "TPP60",
+          "labelPos": "N",
+          "canonical": true
+        }
+      ]
+    },
+    {
+      "name": "TPPTrack",
+      "label": "TPPTrack",
+      "color": "#0C6826",
+      "shiftCoords": [0, 0],
+      "nodes": [
+        {
+          "coords": [27, 6.5]
+        },
+        {
+          "coords": [30, 6.5]
+        },
+        {
+          "coords": [30, 6.5]
+        },
+        {
+          "coords": [33, 10]
+        },
+        {
+          "coords": [33, 10]
+        },
+        {
+          "coords": [38, 10]
+        }
+      ]
+    }
+  ],
+  "river": {
+    "name": "River",
+    "label": "River",
+    "color": "#37474f",
+    "shiftCoords": [0, 0],
+    "nodes": [
+      {
+        "coords": [-22, -46]
+      },
+      {
+        "coords": [-18, -30]
+      },
+      {
+        "coords": [-17, -30]
+      },
+      {
+        "coords": [-10, -24]
+      },
+      {
+        "coords": [-9,-24]
+      },
+      {
+        "coords": [-18, -8]
+      },
+      {
+        "coords": [-17,-8]
+      },
+      {
+        "coords": [-17,-6]
+      },
+      {
+        "coords":[-12,-1]
+      },
+      {
+        "coords":[-11,-1]
+      },
+      {
+        "coords":[19,-1]
+      },
+      {
+        "coords":[20,-1]
+      },
+      {
+        "coords":[30,12]
+      },
+      {
+        "coords":[31,12]
+      },
+      {
+        "coords":[32,12]
+      },
+      {
+        "coords":[43,12]
+      },
+      {
+        "coords":[36,18]
+      },
+      {
+        "coords":[47,18]
+      },
+      {
+        "coords":[68,18]
+      },
+      {
+        "coords":[71,12]
+      },
+      {
+        "coords":[72,12]
+      },
+      {
+        "coords":[80,12]
+      },
+      {
+        "coords":[85,12]
+      },
+      {
+        "coords":[94,-1]
+      },
+      {
+        "coords":[95,-1]
+      },
+      {
+        "coords":[100,-1]
+      },
+      {
+        "coords":[130,-1]
+      },
+      {
+        "coords":[133,-5]
+      },
+      {
+        "coords":[134,-5]
+      },
+      {
+        "coords":[134,-7]
+      },
+      {
+        "coords":[126,-24]
+      },
+      {
+        "coords":[125,-24]
+      },
+      {
+        "coords":[130,-30]
+      },
+      {
+        "coords":[131,-30]
+      },
+      {
+        "coords":[134,-46]
+      },
+      {
+        "coords":[135,-46]
+      }
+    ]
+  }
+}
