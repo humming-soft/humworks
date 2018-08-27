@@ -42,7 +42,7 @@
     <ul class="nav navbar-nav navbar-right">
         <li>
             <a href="#">
-                <i class="fa fa-calendar-o" aria-hidden="true"></i> Today: <span id="current_date" class="text-danger"><b>12 JUL 2018</b></span>
+                <i class="fa fa-calendar-o" aria-hidden="true"></i> Today: <span id="current_date" class="text-danger"><b><?php echo date("d-M-Y")?></b></span>
             </a>
         </li>
         <li>

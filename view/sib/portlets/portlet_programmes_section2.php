@@ -25,14 +25,14 @@
                         <td class="bg-success">Actual (%)</td>
                         <td class="bg-danger">Late (%)</td>
                         <td class="bg-grey" style="border-color: #ddd;" colspan="2">Variance</td>
-                        <td rowspan="2" class="v-align-middle text-center"><span class="number"><i style="color: red;" class="fa fa-arrow-down fa-2x" aria-hidden="true"></i></span></td>
+                        <td rowspan="2" class="v-align-middle text-center"><span class="number"><i style="color: darkgreen;" class="fa fa-arrow-up fa-2x" aria-hidden="true"></i></span></td>
                     </tr>
                     <tr class="set_center">
-                        <td>77.02</td>
-                        <td>75.85</td>
-                        <td>76.83</td>
-                        <td>-1.5w Early</td>
-                        <td>-1.5w Late</td>
+                        <td>66.14</td>
+                        <td>36.56</td>
+                        <td>52.87</td>
+                        <td>-1.9w Early</td>
+                        <td>-1.7w Late</td>
                     </tr>
                 </table>
             </div>
