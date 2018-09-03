@@ -28,8 +28,8 @@
                         <td rowspan="2" class="v-align-middle text-center"><span class="number"><i style="color: darkgreen;" class="fa fa-arrow-up fa-2x" aria-hidden="true"></i></span></td>
                     </tr>
                     <tr class="set_center">
-                        <td>66.14</td>
-                        <td>33.3</td>
+                        <td>57.49</td>
+                        <td>36.75</td>
                         <td>52.87</td>
                         <td>-1.6w Early</td>
                         <td>-1.4w Late</td>
