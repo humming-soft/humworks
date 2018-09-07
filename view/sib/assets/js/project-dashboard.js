@@ -56,11 +56,7 @@ var Dashboard = function() {
                 text: '',
             },
             subtitle:{
-                text: title,
-                style: {
-                    color: '#000000',
-                    textDecoration: 'underline'
-                }
+                text: '',
             },
             credits: false,
             xAxis: {

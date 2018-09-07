@@ -2,8 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ad437ba1-1a9e-4f9e-ab4a-9f177b2f0189" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/view/sib/assets/js/acp.js" afterPath="$PROJECT_DIR$/view/sib/assets/js/acp.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/view/sib/portlets/portlet_acp_overview.php" afterPath="$PROJECT_DIR$/view/sib/portlets/portlet_acp_overview.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/js/charts/d3/support/liquidFillGauge.js" afterPath="$PROJECT_DIR$/assets/js/charts/d3/support/liquidFillGauge.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/view/sib/assets/css/style_dashboard.css" afterPath="$PROJECT_DIR$/view/sib/assets/css/style_dashboard.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/view/sib/assets/js/project-dashboard.js" afterPath="$PROJECT_DIR$/view/sib/assets/js/project-dashboard.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/view/sib/fragments/default_header.php" afterPath="$PROJECT_DIR$/view/sib/fragments/default_header.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/view/sib/project-dashboard.php" afterPath="$PROJECT_DIR$/view/sib/project-dashboard.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/view/sib/section1.php" afterPath="$PROJECT_DIR$/view/sib/section1.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/view/sib/section2.php" afterPath="$PROJECT_DIR$/view/sib/section2.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/view/sib/section3.php" afterPath="$PROJECT_DIR$/view/sib/section3.php" />
     </list>
     <ignored path="humworks.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -23,107 +30,103 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="programmes.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/view/sib/programmes.php">
+      <file leaf-file-name="style_dashboard.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/view/sib/assets/css/style_dashboard.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="651">
-              <caret line="31" column="30" lean-forward="false" selection-start-line="31" selection-start-column="30" selection-end-line="31" selection-end-column="30" />
+            <state relative-caret-position="506">
+              <caret line="872" column="11" lean-forward="false" selection-start-line="872" selection-start-column="11" selection-end-line="872" selection-end-column="11" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="portlet_programmes_overall.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/view/sib/portlets/portlet_programmes_overall.php">
+      <file leaf-file-name="project-dashboard.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/view/sib/project-dashboard.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
-              <caret line="30" column="33" lean-forward="false" selection-start-line="30" selection-start-column="33" selection-end-line="30" selection-end-column="33" />
+            <state relative-caret-position="252">
+              <caret line="147" column="81" lean-forward="false" selection-start-line="147" selection-start-column="81" selection-end-line="147" selection-end-column="81" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="adv_check_print.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/view/sib/adv_check_print.php">
+      <file leaf-file-name="gis_accessories.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/view/sib/fragments/gis_accessories.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-61">
+            <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="portlet_acp_overview.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/view/sib/portlets/portlet_acp_overview.php">
+      <file leaf-file-name="default_header.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/view/sib/fragments/default_header.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="630">
-              <caret line="75" column="69" lean-forward="false" selection-start-line="75" selection-start-column="69" selection-end-line="75" selection-end-column="69" />
+            <state relative-caret-position="674">
+              <caret line="40" column="0" lean-forward="true" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="acp.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/view/sib/assets/js/acp.js">
+      <file leaf-file-name="section1.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/view/sib/section1.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="149">
-              <caret line="36" column="29" lean-forward="false" selection-start-line="36" selection-start-column="29" selection-end-line="36" selection-end-column="29" />
+            <state relative-caret-position="-985">
+              <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="103" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="programme.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/view/sib/assets/js/programme.js">
+      <file leaf-file-name="section2.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/view/sib/section2.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="719">
-              <caret line="465" column="0" lean-forward="false" selection-start-line="465" selection-start-column="0" selection-end-line="465" selection-end-column="0" />
+            <state relative-caret-position="168">
+              <caret line="8" column="72" lean-forward="true" selection-start-line="8" selection-start-column="72" selection-end-line="8" selection-end-column="72" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="portlet_programmes_section1.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/view/sib/portlets/portlet_programmes_section1.php">
+      <file leaf-file-name="section3.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/view/sib/section3.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="651">
-              <caret line="31" column="29" lean-forward="false" selection-start-line="31" selection-start-column="29" selection-end-line="31" selection-end-column="29" />
+            <state relative-caret-position="168">
+              <caret line="8" column="58" lean-forward="false" selection-start-line="8" selection-start-column="58" selection-end-line="8" selection-end-column="58" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="section2.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/view/sib/assets/js/section2.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-7051">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="liquidFillGauge.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/js/charts/d3/support/liquidFillGauge.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="821">
+              <caret line="267" column="1" lean-forward="false" selection-start-line="267" selection-start-column="1" selection-end-line="267" selection-end-column="1" />
               <folding>
-                <marker date="1535986513825" expanded="false" signature="1440:1447" ph="..." />
-                <marker date="1535986513825" expanded="true" signature="1788:1824" ph="..." />
+                <element signature="n#!!doc" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="portlet_programmes_section2.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/view/sib/portlets/portlet_programmes_section2.php">
+      <file leaf-file-name="section1.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/view/sib/assets/js/section1.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="578">
-              <caret line="34" column="28" lean-forward="false" selection-start-line="34" selection-start-column="28" selection-end-line="34" selection-end-column="28" />
-              <folding>
-                <marker date="1535986513876" expanded="false" signature="1440:1447" ph="..." />
-                <marker date="1535986513876" expanded="true" signature="1787:1823" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="portlet_programmes_section3.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/view/sib/portlets/portlet_programmes_section3.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="840">
-              <caret line="40" column="6" lean-forward="false" selection-start-line="40" selection-start-column="6" selection-end-line="40" selection-end-column="6" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="project-dashboard.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/view/sib/project-dashboard.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1449">
-              <caret line="69" column="62" lean-forward="false" selection-start-line="69" selection-start-column="62" selection-end-line="69" selection-end-column="62" />
+            <state relative-caret-position="2326">
+              <caret line="631" column="74" lean-forward="true" selection-start-line="631" selection-start-column="74" selection-end-line="631" selection-end-column="74" />
               <folding />
             </state>
           </provider>
@@ -145,6 +148,15 @@
         <option value="$PROJECT_DIR$/view/sib/portlets/portlet_programmes_section2.php" />
         <option value="$PROJECT_DIR$/view/sib/assets/js/acp.js" />
         <option value="$PROJECT_DIR$/view/sib/portlets/portlet_acp_overview.php" />
+        <option value="$PROJECT_DIR$/view/sib/assets/js/project-dashboard.js" />
+        <option value="$PROJECT_DIR$/view/sib/assets/css/style_dashboard.css" />
+        <option value="$PROJECT_DIR$/view/sib/fragments/default_header.php" />
+        <option value="$PROJECT_DIR$/view/sib/section1.php" />
+        <option value="$PROJECT_DIR$/assets/js/charts/d3/support/liquidFillGauge.js" />
+        <option value="$PROJECT_DIR$/view/sib/assets/js/section1.js" />
+        <option value="$PROJECT_DIR$/view/sib/section2.php" />
+        <option value="$PROJECT_DIR$/view/sib/section3.php" />
+        <option value="$PROJECT_DIR$/view/sib/project-dashboard.php" />
       </list>
     </option>
   </component>
@@ -158,7 +170,7 @@
     <servers />
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="1" />
     <option name="y" value="38" />
     <option name="width" value="1619" />
@@ -195,6 +207,50 @@
             <path>
               <item name="humworks" type="b2602c69:ProjectViewProjectNode" />
               <item name="humworks" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="assets" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="js" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="humworks" type="b2602c69:ProjectViewProjectNode" />
+              <item name="humworks" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="assets" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="js" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="charts" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="humworks" type="b2602c69:ProjectViewProjectNode" />
+              <item name="humworks" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="assets" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="js" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="charts" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="d3" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="humworks" type="b2602c69:ProjectViewProjectNode" />
+              <item name="humworks" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="assets" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="js" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="charts" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="d3" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="support" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="humworks" type="b2602c69:ProjectViewProjectNode" />
+              <item name="humworks" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="assets" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="js" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="core" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="humworks" type="b2602c69:ProjectViewProjectNode" />
+              <item name="humworks" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="assets" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="js" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="maps" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="humworks" type="b2602c69:ProjectViewProjectNode" />
+              <item name="humworks" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="view" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
@@ -217,6 +273,13 @@
               <item name="sib" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="assets" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="js" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="humworks" type="b2602c69:ProjectViewProjectNode" />
+              <item name="humworks" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="view" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="sib" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="fragments" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
               <item name="humworks" type="b2602c69:ProjectViewProjectNode" />
@@ -263,15 +326,15 @@
       <updated>1535085498015</updated>
       <workItem from="1535085500338" duration="12613000" />
       <workItem from="1535948377476" duration="8855000" />
-      <workItem from="1536302815575" duration="2387000" />
+      <workItem from="1536302815575" duration="5820000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23855000" />
+    <option name="totallyTimeSpent" value="27288000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="29" width="1938" height="1060" extended-state="6" />
+    <frame x="-9" y="29" width="1938" height="1060" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16822916" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -518,25 +581,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/view/sib/assets/js/project-dashboard.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2159">
-          <caret line="11" column="18" lean-forward="false" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/view/sib/assets/js/projects.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/view/sib/project-dashboard.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1449">
-          <caret line="69" column="62" lean-forward="false" selection-start-line="69" selection-start-column="62" selection-end-line="69" selection-end-column="62" />
           <folding />
         </state>
       </provider>
@@ -613,8 +661,101 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/view/sib/portlets/portlet_acp_overview.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="630">
-          <caret line="75" column="69" lean-forward="false" selection-start-line="75" selection-start-column="69" selection-end-line="75" selection-end-column="69" />
+        <state relative-caret-position="231">
+          <caret line="56" column="0" lean-forward="true" selection-start-line="56" selection-start-column="0" selection-end-line="56" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/view/sib/assets/js/project-dashboard.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="58" column="25" lean-forward="false" selection-start-line="58" selection-start-column="25" selection-end-line="58" selection-end-column="25" />
+          <folding>
+            <marker date="1536306361836" expanded="true" signature="3131:3145" ph="..." />
+            <marker date="1536306361836" expanded="true" signature="3217:3236" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/view/sib/assets/css/style_dashboard.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="872" column="11" lean-forward="false" selection-start-line="872" selection-start-column="11" selection-end-line="872" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/view/sib/fragments/gis_accessories.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/charts/d3/support/liquidFillGauge.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="821">
+          <caret line="267" column="1" lean-forward="false" selection-start-line="267" selection-start-column="1" selection-end-line="267" selection-end-column="1" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/view/sib/assets/js/section1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2326">
+          <caret line="631" column="74" lean-forward="true" selection-start-line="631" selection-start-column="74" selection-end-line="631" selection-end-column="74" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/view/sib/assets/js/section2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7051">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/view/sib/section3.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="58" lean-forward="false" selection-start-line="8" selection-start-column="58" selection-end-line="8" selection-end-column="58" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/view/sib/section2.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="72" lean-forward="true" selection-start-line="8" selection-start-column="72" selection-end-line="8" selection-end-column="72" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/view/sib/section1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-985">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="103" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/view/sib/fragments/default_header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="674">
+          <caret line="40" column="0" lean-forward="true" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/view/sib/project-dashboard.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="147" column="81" lean-forward="false" selection-start-line="147" selection-start-column="81" selection-end-line="147" selection-end-column="81" />
           <folding />
         </state>
       </provider>

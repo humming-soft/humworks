@@ -3,6 +3,7 @@
 <head>
     <?php include 'fragments/default_header.php' ?>
     <link href="assets/css/style_dashboard.css" rel="stylesheet" type="text/css">
+    <script type="text/javascript" src="../../assets/js/charts/d3/d3.v4.js"></script>
     <script type="text/javascript" src="../../assets/js/charts/d3/tubemap/popper.min.js"></script>
     <script type="text/javascript" src="../../assets/js/charts/d3/tubemap/d3-tube-map.js"></script>
     <script type="text/javascript" src="assets/js/project-dashboard.js"></script>
@@ -138,14 +139,14 @@
                                                     <span class="set13"><a href="mspr.php">P</a></span>-->
                                     </div>
                                     <div id="pl_package">
-                                        <a id="pl_package_V201" href="viaduct.php" class="set1">16 Sierra</a>
-                                        <a id="pl_package_V202" href="viaduct.php" class="set2">Cyberjaya North</a>
+                                        <a id="pl_package_V201" href="#" class="set1">16 Sierra</a>
+                                        <a id="pl_package_V202" href="#" class="set2">Cyberjaya North</a>
                                     </div>
                                     <div id="pl_phase">
-                                        <!--            <span class="set1"><a href="#">TWK</a></span>
-                                                    <span class="set2"><a href="#">PS&DS</a></span>
-                                                    <span class="set9"><a href="#">S&TCS</a></span>
-                                                    <span class="set3"><a href="#">LRV</a></span>
+                                                  <span class="set1"><a href="section1.php">Section 1</a></span>
+                                                    <span class="set2"><a href="#">Section 2</a></span>
+                                                    <span class="set9"><a href="#">Section 3</a></span>
+                                             <!--         <span class="set3"><a href="#">LRV</a></span>
                                                     <span class="set6"><a href="#">COM</a></span>
                                                     <span class="set4"><a href="#">DEMV</a></span>
                                                     <span class="set5"><a href="#">AFC</a></span>
