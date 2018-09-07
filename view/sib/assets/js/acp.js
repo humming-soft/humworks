@@ -31,30 +31,14 @@ $(document).ready(function(){
                 title: {
                     text: 'Total',
                     align: 'middle'
-                },
-                labels: {
-                    formatter: function () {
-                        return this.value;
-                    }
                 }
             },
-            tooltip: {
-                crosshairs: true,
-                shared: true,
-                valueSuffix: ''
-            },
-            plotOptions: {
-                spline: {
-                    marker: {
-                        radius: 4,
-                        lineColor: '#666666',
-                        lineWidth: 1
-                    }
-                }
+            legend: {
+                enabled:false
             },
             "series": [
                 {
-                    "name": "Total Advanced Check Print",
+                    "name": "Advanced Check Print",
                     "colorByPoint": true,
                     "data": [
                         {

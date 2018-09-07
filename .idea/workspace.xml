@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="ad437ba1-1a9e-4f9e-ab4a-9f177b2f0189" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/view/sib/assets/js/acp.js" afterPath="$PROJECT_DIR$/view/sib/assets/js/acp.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/view/sib/portlets/portlet_acp_overview.php" afterPath="$PROJECT_DIR$/view/sib/portlets/portlet_acp_overview.php" />
     </list>
     <ignored path="humworks.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -45,18 +46,28 @@
       <file leaf-file-name="adv_check_print.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/view/sib/adv_check_print.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
+            <state relative-caret-position="-61">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="acp.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="portlet_acp_overview.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/view/sib/portlets/portlet_acp_overview.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="630">
+              <caret line="75" column="69" lean-forward="false" selection-start-line="75" selection-start-column="69" selection-end-line="75" selection-end-column="69" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="acp.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/view/sib/assets/js/acp.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="4998">
-              <caret line="442" column="21" lean-forward="false" selection-start-line="442" selection-start-column="21" selection-end-line="442" selection-end-column="21" />
+            <state relative-caret-position="149">
+              <caret line="36" column="29" lean-forward="false" selection-start-line="36" selection-start-column="29" selection-end-line="36" selection-end-column="29" />
               <folding />
             </state>
           </provider>
@@ -65,12 +76,9 @@
       <file leaf-file-name="programme.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/view/sib/assets/js/programme.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="6195">
+            <state relative-caret-position="719">
               <caret line="465" column="0" lean-forward="false" selection-start-line="465" selection-start-column="0" selection-end-line="465" selection-end-column="0" />
-              <folding>
-                <marker date="1535986513800" expanded="true" signature="200:547" ph="{...}" />
-                <marker date="1535986513800" expanded="true" signature="515:547" ph="{...}" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -121,16 +129,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="projects.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/view/sib/assets/js/projects.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="Git.Settings">
@@ -146,6 +144,7 @@
         <option value="$PROJECT_DIR$/view/sib/assets/js/programme.js" />
         <option value="$PROJECT_DIR$/view/sib/portlets/portlet_programmes_section2.php" />
         <option value="$PROJECT_DIR$/view/sib/assets/js/acp.js" />
+        <option value="$PROJECT_DIR$/view/sib/portlets/portlet_acp_overview.php" />
       </list>
     </option>
   </component>
@@ -159,7 +158,7 @@
     <servers />
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="1" />
     <option name="y" value="38" />
     <option name="width" value="1619" />
@@ -219,6 +218,13 @@
               <item name="assets" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="js" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
+            <path>
+              <item name="humworks" type="b2602c69:ProjectViewProjectNode" />
+              <item name="humworks" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="view" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="sib" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="portlets" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -257,15 +263,15 @@
       <updated>1535085498015</updated>
       <workItem from="1535085500338" duration="12613000" />
       <workItem from="1535948377476" duration="8855000" />
-      <workItem from="1536302815575" duration="1375000" />
+      <workItem from="1536302815575" duration="2387000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22843000" />
+    <option name="totallyTimeSpent" value="23855000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="29" width="1938" height="1060" extended-state="7" />
+    <frame x="-9" y="29" width="1938" height="1060" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16822916" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -326,10 +332,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="6195">
           <caret line="295" column="0" lean-forward="true" selection-start-line="295" selection-start-column="0" selection-end-line="295" selection-end-column="0" />
-          <folding>
-            <marker date="1535986513800" expanded="true" signature="200:547" ph="{...}" />
-            <marker date="1535986513800" expanded="true" signature="515:547" ph="{...}" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -421,10 +424,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="4522">
           <caret line="266" column="79" lean-forward="false" selection-start-line="266" selection-start-column="79" selection-end-line="266" selection-end-column="79" />
-          <folding>
-            <marker date="1535986513800" expanded="true" signature="200:547" ph="{...}" />
-            <marker date="1535986513800" expanded="true" signature="515:547" ph="{...}" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -560,17 +560,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/view/sib/assets/js/programme.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6195">
-          <caret line="465" column="0" lean-forward="false" selection-start-line="465" selection-start-column="0" selection-end-line="465" selection-end-column="0" />
-          <folding>
-            <marker date="1535986513800" expanded="true" signature="200:547" ph="{...}" />
-            <marker date="1535986513800" expanded="true" signature="515:547" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/view/sib/portlets/portlet_programmes_section3.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="840">
@@ -598,18 +587,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/view/sib/adv_check_print.php">
+    <entry file="file://$PROJECT_DIR$/view/sib/assets/js/programme.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="719">
+          <caret line="465" column="0" lean-forward="false" selection-start-line="465" selection-start-column="0" selection-end-line="465" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/view/sib/assets/js/acp.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4998">
-          <caret line="442" column="21" lean-forward="false" selection-start-line="442" selection-start-column="21" selection-end-line="442" selection-end-column="21" />
+        <state relative-caret-position="149">
+          <caret line="36" column="29" lean-forward="false" selection-start-line="36" selection-start-column="29" selection-end-line="36" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/view/sib/adv_check_print.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-61">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/view/sib/portlets/portlet_acp_overview.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="75" column="69" lean-forward="false" selection-start-line="75" selection-start-column="69" selection-end-line="75" selection-end-column="69" />
           <folding />
         </state>
       </provider>
