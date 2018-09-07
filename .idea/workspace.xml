@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ad437ba1-1a9e-4f9e-ab4a-9f177b2f0189" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/view/sib/portlets/portlet_overall_spi.php" afterPath="$PROJECT_DIR$/view/sib/portlets/portlet_overall_spi.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/view/sit/fragments/default_header.php" afterPath="$PROJECT_DIR$/view/sit/fragments/default_header.php" />
     </list>
     <ignored path="humworks.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -33,16 +32,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="default_header.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/view/sib/fragments/default_header.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="674">
-              <caret line="40" column="0" lean-forward="true" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="section1.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/view/sib/section1.php">
           <provider selected="true" editor-type-id="text-editor">
@@ -63,15 +52,35 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="portlet_overall_spi.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="portlet_overall_spi.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/view/sib/portlets/portlet_overall_spi.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="336">
-              <caret line="16" column="94" lean-forward="true" selection-start-line="16" selection-start-column="94" selection-end-line="16" selection-end-column="94" />
+            <state relative-caret-position="420">
+              <caret line="20" column="6" lean-forward="true" selection-start-line="20" selection-start-column="6" selection-end-line="20" selection-end-column="6" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#0;n#!!top" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="dashboard.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/view/sit/dashboard.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="231">
+              <caret line="11" column="54" lean-forward="true" selection-start-line="11" selection-start-column="54" selection-end-line="11" selection-end-column="54" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="default_header.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/view/sit/fragments/default_header.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="22" lean-forward="true" selection-start-line="0" selection-start-column="22" selection-end-line="0" selection-end-column="22" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -106,28 +115,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="liquidFillGauge.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/js/charts/d3/support/liquidFillGauge.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="821">
-              <caret line="267" column="1" lean-forward="false" selection-start-line="267" selection-start-column="1" selection-end-line="267" selection-end-column="1" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="section1.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/view/sib/assets/js/section1.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2326">
-              <caret line="631" column="74" lean-forward="true" selection-start-line="631" selection-start-column="74" selection-end-line="631" selection-end-column="74" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="Git.Settings">
@@ -154,6 +141,7 @@
         <option value="$PROJECT_DIR$/view/sib/section3.php" />
         <option value="$PROJECT_DIR$/view/sib/project-dashboard.php" />
         <option value="$PROJECT_DIR$/view/sib/portlets/portlet_overall_spi.php" />
+        <option value="$PROJECT_DIR$/view/sit/fragments/default_header.php" />
       </list>
     </option>
   </component>
@@ -204,86 +192,27 @@
             <path>
               <item name="humworks" type="b2602c69:ProjectViewProjectNode" />
               <item name="humworks" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="assets" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="js" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="humworks" type="b2602c69:ProjectViewProjectNode" />
-              <item name="humworks" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="assets" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="js" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="charts" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="humworks" type="b2602c69:ProjectViewProjectNode" />
-              <item name="humworks" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="assets" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="js" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="charts" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="d3" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="humworks" type="b2602c69:ProjectViewProjectNode" />
-              <item name="humworks" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="assets" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="js" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="charts" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="d3" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="support" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="humworks" type="b2602c69:ProjectViewProjectNode" />
-              <item name="humworks" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="assets" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="js" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="core" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="humworks" type="b2602c69:ProjectViewProjectNode" />
-              <item name="humworks" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="assets" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="js" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="maps" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="humworks" type="b2602c69:ProjectViewProjectNode" />
-              <item name="humworks" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="view" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
               <item name="humworks" type="b2602c69:ProjectViewProjectNode" />
               <item name="humworks" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="view" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="sib" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="sit" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
               <item name="humworks" type="b2602c69:ProjectViewProjectNode" />
               <item name="humworks" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="view" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="sib" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="sit" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="assets" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
               <item name="humworks" type="b2602c69:ProjectViewProjectNode" />
               <item name="humworks" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="view" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="sib" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="assets" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="js" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="humworks" type="b2602c69:ProjectViewProjectNode" />
-              <item name="humworks" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="view" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="sib" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="sit" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="fragments" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="humworks" type="b2602c69:ProjectViewProjectNode" />
-              <item name="humworks" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="view" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="sib" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="portlets" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
           </expand>
           <select />
@@ -323,12 +252,12 @@
       <updated>1535085498015</updated>
       <workItem from="1535085500338" duration="12613000" />
       <workItem from="1535948377476" duration="8855000" />
-      <workItem from="1536302815575" duration="6612000" />
+      <workItem from="1536302815575" duration="8169000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28080000" />
+    <option name="totallyTimeSpent" value="29637000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="29" width="1938" height="1060" extended-state="7" />
@@ -733,22 +662,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/view/sib/fragments/default_header.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="674">
-          <caret line="40" column="0" lean-forward="true" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/view/sib/project-dashboard.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="147" column="81" lean-forward="false" selection-start-line="147" selection-start-column="81" selection-end-line="147" selection-end-column="81" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/view/sib/section1.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-607">
@@ -767,12 +680,44 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/view/sib/portlets/portlet_overall_spi.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="16" column="94" lean-forward="true" selection-start-line="16" selection-start-column="94" selection-end-line="16" selection-end-column="94" />
+        <state relative-caret-position="420">
+          <caret line="20" column="6" lean-forward="true" selection-start-line="20" selection-start-column="6" selection-end-line="20" selection-end-column="6" />
           <folding>
             <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/view/sit/dashboard.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="11" column="54" lean-forward="true" selection-start-line="11" selection-start-column="54" selection-end-line="11" selection-end-column="54" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/view/sib/fragments/default_header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="191">
+          <caret line="29" column="0" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="31" selection-end-column="94" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/view/sib/project-dashboard.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="147" column="81" lean-forward="false" selection-start-line="147" selection-start-column="81" selection-end-line="147" selection-end-column="81" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/view/sit/fragments/default_header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="22" lean-forward="true" selection-start-line="0" selection-start-column="22" selection-end-line="0" selection-end-column="22" />
+          <folding />
         </state>
       </provider>
     </entry>

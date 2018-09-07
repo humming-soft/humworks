@@ -28,6 +28,10 @@
 <script type="text/javascript" src="../../assets/js/plugins/ui/nicescroll.min.js"></script>
 <script type="text/javascript" src="../../assets/js/plugins/ui/drilldown.js"></script>
 
+<script type="text/javascript" src="../../assets/js/core/libraries/jquery_ui/datepicker.min.js"></script>
+<script type="text/javascript" src="../../assets/js/core/libraries/jquery_ui/effects.min.js"></script>
+<script type="text/javascript" src="../../assets/js/plugins/ui/moment/moment.min.js"></script>
+
 <script type="text/javascript" src="../../assets/js/charts/highcharts/5.0.6/gantt/highcharts-gantt.src.js"></script>
 <script type="text/javascript" src="../../assets/js/charts/highcharts/5.0.6/highcharts-more.js"></script>
 <script type="text/javascript" src="../../assets/js/charts/highcharts/5.0.6/gantt/drilldown.js"></script>
