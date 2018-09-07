@@ -58,410 +58,385 @@ $(document).ready(function(){
                     "colorByPoint": true,
                     "data": [
                         {
-                            "name": "TNB LV",
-                            "y": 4,
-                            "drilldown": "tnb_lv"
+                            "name": "TOTAL",
+                            "y": 216,
+                            "drilldown": "TOTAL"
                         },
                         {
-                            "name": "TNB 11KV",
-                            "y": 1,
-                            "drilldown": "tnb_11kv"
+                            "name": "SUBMITTED",
+                            "y": 150,
+                            "drilldown": "SUBMITTED"
                         },
                         {
-                            "name": "TELEKOM",
-                            "y": 12,
-                            "drilldown": "telekom"
+                            "name": "CODE 1",
+                            "y": 104,
+                            "drilldown": "CODE 1"
                         },
                         {
-                            "name": "TIME",
-                            "y": 7,
-                            "drilldown": "time"
-                        },
-                        {
-                            "name": "SYABAS",
-                            "y": 18,
-                            "drilldown": "syabas"
-                        },
-                        {
-                            "name": "GAS MALAYSIA",
-                            "y": 1,
-                            "drilldown": "gas_malaysia"
-                        },
-                        {
-                            "name": "SPEEDLINK",
+                            "name": "CODE 2",
                             "y": 5,
-                            "drilldown": "speedink"
+                            "drilldown": "CODE 2"
                         },
                         {
-                            "name": "MAPPING",
-                            "y": 20,
-                            "drilldown": "mapping"
+                            "name": "CODE 3",
+                            "y": 0,
+                            "drilldown": "CODE 3"
                         },
                         {
-                            "name": "PILOTING",
-                            "y": 128,
-                            "drilldown": "piloting"
-                        },
-                        {
-                            "name": "SEWERAGE",
-                            "y": 3,
-                            "drilldown": "sewerage"
-                        },
-                        {
-                            "name": "PYLON",
-                            "y": 4,
-                            "drilldown": "pylon"
-                        },
-                        {
-                            "name": "EARTHING AND LIGHTING",
-                            "y": 33,
-                            "drilldown": "earthing_and_lighting"
-                        },
-                        {
-                            "name": "STREET LIGHTING(temporary)",
-                            "y": 2,
-                            "drilldown": "street_lighting"
+                            "name": "SUBMISSION UNDER REVIEW",
+                            "y": 41,
+                            "drilldown": "SUBMISSION UNDER REVIEW"
                         }
                     ]
                 }
             ],
             "drilldown": {
-                "categories": ['Submitted','Code 1','Code 2','Code 3','Under Review'],
+                "categories": ['TNB LV','TNB 11KV','TELEKOM','TIME','SYABAS','GAS MALAYSIA', 'SPEEDLINK', 'MAPPING','PILOTING','SEWERAGE','PYLON','EARTHING AND LIGHTING','STREET LIGHTING(Temporary)'],
                 "series": [
                     {
-                        "name": "TNB LV",
-                        "id": "tnb_lv",
+                        "name": "TOTAL",
+                        "id": "TOTAL",
                         "data": [
                             [
-                                "Submitted",
-                                1
-                            ],
-                            [
-                                "Code 1",
-                                2
-                            ],
-                            [
-                                "Code 2",
-                                0
-                            ],
-                            [
-                                "Code 3",
-                                0
-                            ],
-                            [
-                                "Under Review",
-                                0
-                            ]
-                        ]
-                    },
-                    {
-                        "name": "TNB 11KV",
-                        "id": "tnb_11kv",
-                        "data": [
-                            [
-                                "Submitted",
-                                1
-                            ],
-                            [
-                                "Code 1",
-                                1
-                            ],
-                            [
-                                "Code 2",
-                                0
-                            ],
-                            [
-                                "Code 3",
-                                0
-                            ],
-                            [
-                                "Under Review",
-                                0
-                            ]
-                        ]
-                    },
-                    {
-                        "name": "TELEKOM",
-                        "id": "telekom",
-                        "data": [
-                            [
-                                "Submitted",
-                                13
-                            ],
-                            [
-                                "Code 1",
-                                0
-                            ],
-                            [
-                                "Code 2",
-                                0
-                            ],
-                            [
-                                "Code 3",
-                                0
-                            ],
-                            [
-                                "Under Review",
-                                0
-                            ]
-                        ]
-                    },
-                    {
-                        "name": "TIME",
-                        "id": "time",
-                        "data": [
-                            [
-                                "Submitted",
-                                0
-                            ],
-                            [
-                                "Code 1",
-                                0
-                            ],
-                            [
-                                "Code 2",
-                                0
-                            ],
-                            [
-                                "Code 3",
-                                0
-                            ],
-                            [
-                                "Under Review",
-                                0
-                            ]
-                        ]
-                    },
-                    {
-                        "name": "SYABAS",
-                        "id": "syabas",
-                        "data": [
-                            [
-                                "Submitted",
-                                0
-                            ],
-                            [
-                                "Code 1",
-                                0
-                            ],
-                            [
-                                "Code 2",
-                                0
-                            ],
-                            [
-                                "Code 3",
-                                0
-                            ],
-                            [
-                                "Under Review",
-                                0
-                            ]
-                        ]
-                    },
-                    {
-                        "name": "GAS MALAYSIA",
-                        "id": "gas_malaysia",
-                        "data": [
-                            [
-                                "Submitted",
-                                1
-                            ],
-                            [
-                                "Code 1",
-                                0
-                            ],
-                            [
-                                "Code 2",
-                                1
-                            ],
-                            [
-                                "Code 3",
-                                0
-                            ],
-                            [
-                                "Under Review",
-                                0
-                            ]
-                        ]
-                    },
-                    {
-                        "name": "SPEEDLINK",
-                        "id": "speedlink",
-                        "data": [
-                            [
-                                "Submitted",
-                                0
-                            ],
-                            [
-                                "Code 1",
-                                0
-                            ],
-                            [
-                                "Code 2",
-                                0
-                            ],
-                            [
-                                "Code 3",
-                                0
-                            ],
-                            [
-                                "Under Review",
-                                0
-                            ]
-                        ]
-                    },
-                    {
-                        "name": "MAPPING",
-                        "id": "mapping",
-                        "data": [
-                            [
-                                "Submitted",
-                                15
-                            ],
-                            [
-                                "Code 1",
-                                0
-                            ],
-                            [
-                                "Code 2",
-                                0
-                            ],
-                            [
-                                "Code 3",
-                                0
-                            ],
-                            [
-                                "Under Review",
-                                15
-                            ]
-                        ]
-                    },
-                    {
-                        "name": "PILOTING",
-                        "id": "piloting",
-                        "data": [
-                            [
-                                "Submitted",
-                                119
-                            ],
-                            [
-                                "Code 1",
-                                102
-                            ],
-                            [
-                                "Code 2",
+                                "TNB LV",
                                 4
                             ],
                             [
-                                "Code 3",
-                                0
+                                "TNB 11KV",
+                                1
                             ],
                             [
-                                "Under Review",
+                                "TELEKOM",
+                                15
+                            ],
+                            [
+                                "TIME",
+                                7
+                            ],
+                            [
+                                "SYABAS",
+                                18
+                            ],
+                            [
+                                "GAS MALAYSIA",
+                                1
+                            ],
+                            [
+                                "SPEEDLINK",
+                                5
+                            ],
+                            [
+                                "MAPPING",
+                                20
+                            ],
+                            [
+                                "PILOTING",
+                                128
+                            ],
+                            [
+                                "SEWERAGE",
+                                3
+                            ],
+                            [
+                                "PYLON",
+                                4
+                            ],
+                            [
+                                "EARTHING AND LIGHTING",
+                                33
+                            ],
+                            [
+                                "STREET LIGHTING(Temporary)",
+                                2
+                            ]
+                        ]
+                    },
+                    {
+                        "name": "SUBMITTED",
+                        "id": "SUBMITTED",
+                        "data": [
+                            [
+                                "TNB LV",
+                                1
+                            ],
+                            [
+                                "TNB 11KV",
+                                1
+                            ],
+                            [
+                                "TELEKOM",
                                 13
-                            ]
-                        ]
-                    },
-                    {
-                        "name": "SEWERAGE",
-                        "id": "sewerage",
-                        "data": [
+                            ],
                             [
-                                "Submitted",
+                                "TIME",
                                 0
                             ],
                             [
-                                "Code 1",
+                                "SYABAS",
                                 0
                             ],
                             [
-                                "Code 2",
+                                "GAS MALAYSIA",
+                                1
+                            ],
+                            [
+                                "SPEEDLINK",
                                 0
                             ],
                             [
-                                "Code 3",
+                                "MAPPING",
+                                15
+                            ],
+                            [
+                                "PILOTING",
+                                119
+                            ],
+                            [
+                                "SEWERAGE",
                                 0
                             ],
                             [
-                                "Under Review",
-                                0
-                            ]
-                        ]
-                    },
-                    {
-                        "name": "PYLON",
-                        "id": "pylon",
-                        "data": [
-                            [
-                                "Submitted",
+                                "PYLON",
                                 0
                             ],
                             [
-                                "Code 1",
+                                "EARTHING AND LIGHTING",
                                 0
                             ],
                             [
-                                "Code 2",
-                                0
-                            ],
-                            [
-                                "Code 3",
-                                0
-                            ],
-                            [
-                                "Under Review",
+                                "STREET LIGHTING(Temporary)",
                                 0
                             ]
                         ]
                     },
                     {
-                        "name": "EARTHING AND LIGHTING",
-                        "id": "earthing_and_lighting",
+                        "name": "CODE 1",
+                        "id": "CODE 1",
                         "data": [
                             [
-                                "Submitted",
+                                "TNB LV",
+                                1
+                            ],
+                            [
+                                "TNB 11KV",
+                                1
+                            ],
+                            [
+                                "TELEKOM",
                                 0
                             ],
                             [
-                                "Code 1",
+                                "TIME",
                                 0
                             ],
                             [
-                                "Code 2",
+                                "SYABAS",
                                 0
                             ],
                             [
-                                "Code 3",
+                                "GAS MALAYSIA",
                                 0
                             ],
                             [
-                                "Under Review",
+                                "SPEEDLINK",
+                                0
+                            ],
+                            [
+                                "MAPPING",
+                                0
+                            ],
+                            [
+                                "PILOTING",
+                                102
+                            ],
+                            [
+                                "SEWERAGE",
+                                0
+                            ],
+                            [
+                                "PYLON",
+                                0
+                            ],
+                            [
+                                "EARTHING AND LIGHTING",
+                                0
+                            ],
+                            [
+                                "STREET LIGHTING(Temporary)",
                                 0
                             ]
                         ]
                     },
                     {
-                        "name": "STREET LIGHTING(Temporary)",
-                        "id": "street_lighting",
+                        "name": "CODE 2",
+                        "id": "CODE 2",
                         "data": [
                             [
-                                "Submitted",
+                                "TNB LV",
                                 0
                             ],
                             [
-                                "Code 1",
+                                "TNB 11KV",
                                 0
                             ],
                             [
-                                "Code 2",
+                                "TELEKOM",
                                 0
                             ],
                             [
-                                "Code 3",
+                                "TIME",
                                 0
                             ],
                             [
-                                "Under Review",
+                                "SYABAS",
+                                0
+                            ],
+                            [
+                                "GAS MALAYSIA",
+                                1
+                            ],
+                            [
+                                "SPEEDLINK",
+                                0
+                            ],
+                            [
+                                "MAPPING",
+                                0
+                            ],
+                            [
+                                "PILOTING",
+                                4
+                            ],
+                            [
+                                "SEWERAGE",
+                                0
+                            ],
+                            [
+                                "PYLON",
+                                0
+                            ],
+                            [
+                                "EARTHING AND LIGHTING",
+                                0
+                            ],
+                            [
+                                "STREET LIGHTING(Temporary)",
+                                0
+                            ]
+                        ]
+                    },
+                    {
+                        "name": "CODE 3",
+                        "id": "CODE 3",
+                        "data": [
+                            [
+                                "TNB LV",
+                                0
+                            ],
+                            [
+                                "TNB 11KV",
+                                0
+                            ],
+                            [
+                                "TELEKOM",
+                                0
+                            ],
+                            [
+                                "TIME",
+                                0
+                            ],
+                            [
+                                "SYABAS",
+                                0
+                            ],
+                            [
+                                "GAS MALAYSIA",
+                                0
+                            ],
+                            [
+                                "SPEEDLINK",
+                                0
+                            ],
+                            [
+                                "MAPPING",
+                                0
+                            ],
+                            [
+                                "PILOTING",
+                                0
+                            ],
+                            [
+                                "SEWERAGE",
+                                0
+                            ],
+                            [
+                                "PYLON",
+                                0
+                            ],
+                            [
+                                "EARTHING AND LIGHTING",
+                                0
+                            ],
+                            [
+                                "STREET LIGHTING(Temporary)",
+                                0
+                            ]
+                        ]
+                    },
+                    {
+                        "name": "SUBMISSION UNDER REVIEW",
+                        "id": "SUBMISSION UNDER REVIEW",
+                        "data": [
+                            [
+                                "TNB LV",
+                                0
+                            ],
+                            [
+                                "TNB 11KV",
+                                0
+                            ],
+                            [
+                                "TELEKOM",
+                                13
+                            ],
+                            [
+                                "TIME",
+                                0
+                            ],
+                            [
+                                "SYABAS",
+                                0
+                            ],
+                            [
+                                "GAS MALAYSIA",
+                                0
+                            ],
+                            [
+                                "SPEEDLINK",
+                                0
+                            ],
+                            [
+                                "MAPPING",
+                                15
+                            ],
+                            [
+                                "PILOTING",
+                                13
+                            ],
+                            [
+                                "SEWERAGE",
+                                0
+                            ],
+                            [
+                                "PYLON",
+                                0
+                            ],
+                            [
+                                "EARTHING AND LIGHTING",
+                                0
+                            ],
+                            [
+                                "STREET LIGHTING(Temporary)",
                                 0
                             ]
                         ]
