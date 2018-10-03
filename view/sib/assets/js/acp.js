@@ -71,7 +71,21 @@ $(document).ready(function(){
                             "y": 41,
                             "drilldown": "SUBMISSION UNDER REVIEW"
                         }
-                    ]
+                    ],
+                    tooltip:{
+                        headerFormat: '<span style="font-size:11px">{series.name}</span><br>',
+                        pointFormatter: function() {
+                            if(this.options.name == 'CODE 1') {
+                                return "<b>CODE 1 - Accepted: </b>"+this.y;
+                            }else if(this.options.name == 'CODE 2') {
+                                return "<b>CODE 2 - Accepted with Comments: </b>"+this.y;
+                            }else if(this.options.name == 'CODE 3') {
+                                return "<b>CODE 3 - Rejected: </b>"+this.y;
+                            } else {
+                                return "<b>"+this.options.name+": </b>"+this.y;
+                            }
+                        }
+                    }
                 }
             ],
             "drilldown": {
@@ -431,7 +445,7 @@ $(document).ready(function(){
 
         });
 
-        Highcharts.chart('bar2', {
+/*        Highcharts.chart('bar2', {
             chart: {
                 type: 'column'
             },
@@ -553,7 +567,7 @@ $(document).ready(function(){
             }
 
 
-        });
+        });*/
     });
 });
 

@@ -59,7 +59,7 @@ var Section1ResourcesPiling = function() {
                 align: 'left',
                 x: 120,
                 verticalAlign: 'top',
-                y: 40,
+                y: 10,
                 floating: true,
                 backgroundColor: (Highcharts.theme && Highcharts.theme.legendBackgroundColor) || '#FFFFFF'
             },
@@ -73,29 +73,42 @@ var Section1ResourcesPiling = function() {
                 },
                 dashStyle:'ShortDash'
 
-            }, {
-                name: 'Monthly Resource Levelling (Nos)',
-                type: 'column',
-                color:'#0070C0',
-                data: [10,15,20,30,30,35,35,40,40,40,40,40,35,35,30,30,30,25,15,7],
-
-            }, {
+            },{
                 name: 'Monthly Target (Nos)',
                 type: 'column',
                 color:'#8de031',
-                data: [7,15,17,20,17,34,57,65,65,58,43,34,29,36,28,24,16,10,5,2],
+                data: [10,15,20,30,30,35,35,40,40,40,40,40,35,35,30,30,30,25,15,7],
+
+            }, {
+                name: 'Monthly Actual (Nos)',
+                type: 'column',
+                color:'#0070C0',
+                data: [7,15,17,20,17,34,57,65,65,58,43,34,29],
+
+            }, {
+                name: 'Monthly Actual-Forecast (Nos)',
+                type: 'column',
+                color:'#FF0000',
+                data: [null,null,null,null,null,null,null,null,null,null,null,null,null,36,28,24,16,10,5,2],
 
             },{
-                name: 'Cumulative Target (Nos)',
+                name: 'Cumulative Actual (Nos)',
                 type: 'spline',
                 yAxis: 1,
                 color:'#8600ad',
-                data: [7,22,39,59,76,110,167,232,297,355,398,432,461,497,525,549,565,575,580,582],
+                data: [7,22,39,59,76,110,167,232,297,355,398,432,461],
                 /*                marker: {
                                     enabled: false
                                 }*/
             },{
-                name: 'Cumulative Resource Levelling (Nos)',
+                name: 'Cumulative Actual-Forecast (Nos)',
+                type: 'spline',
+                yAxis: 1,
+                color:'#FF0000',
+                data: [null,null,null,null,null,null,null,null,null,null,null,null,null,497,525,549,565,575,580,582],
+                dashStyle:'ShortDash'
+            },{
+                name: 'Cumulative Target (Nos)',
                 type: 'spline',
                 yAxis: 1,
                 color:'#ffab05',
@@ -161,7 +174,7 @@ var Section1ResourcesPiling = function() {
                 align: 'left',
                 x: 120,
                 verticalAlign: 'top',
-                y: 40,
+                y: 10,
                 floating: true,
                 backgroundColor: (Highcharts.theme && Highcharts.theme.legendBackgroundColor) || '#FFFFFF'
             },
@@ -175,29 +188,42 @@ var Section1ResourcesPiling = function() {
                 },
                 dashStyle:'ShortDash'
 
-            }, {
-                name: 'Monthly Resource Levelling (Nos)',
-                type: 'column',
-                color:'#0070C0',
-                data: [3,5,5,7,9,10,13,12,12,15,8,4,6,3,3,3,3,2,5,3],
-
-            }, {
+            },{
                 name: 'Monthly Target (Nos)',
                 type: 'column',
                 color:'#8de031',
-                data: [1,2,2,3,6,9,15,19,17,15,10,7,5,3,2,2,2,2,2,2],
+                data: [3,5,5,7,9,10,13,12,12,15,8,4,6,3,3,3,3,2,5,3],
 
-            },{
-                name: 'Cumulative Target (Nos)',
+            }, {
+                name: 'Monthly Actual (Nos)',
+                type: 'column',
+                color:'#0070C0',
+                data: [1,2,2,3,6,9,15,19,17,15,10,7,5],
+
+            }, {
+                name: 'Monthly Actual-Forecast (Nos)',
+                type: 'column',
+                color:'#FF0000',
+                data: [null,null,null,null,null,null,null,null,null,null,null,null,null,3,2,2,2,2,2,2],
+
+            }, {
+                name: 'Cumulative Actual (Nos)',
                 type: 'spline',
                 yAxis: 1,
                 color:'#8600ad',
-                data: [1,2,5,8,14,23,38,57,74,89,99,106,111,114,116,118,120,122,124,126],
+                data: [1,2,5,8,14,23,38,57,74,89,99,106,111],
                 /*                marker: {
                                     enabled: false
                                 }*/
             },{
-                name: 'Cumulative Resource Levelling (Nos)',
+                name: 'Cumulative Actual-Forecast (Nos)',
+                type: 'spline',
+                yAxis: 1,
+                color:'#FF0000',
+                data: [null,null,null,null,null,null,null,null,null,null,null,null,null,114,116,118,120,122,124,126],
+                dashStyle:'ShortDash'
+            },{
+                name: 'Cumulative Target (Nos)',
                 type: 'spline',
                 yAxis: 1,
                 color:'#ffab05',
@@ -263,7 +289,7 @@ var Section1ResourcesPiling = function() {
                 align: 'left',
                 x: 120,
                 verticalAlign: 'top',
-                y: 40,
+                y: 10,
                 floating: true,
                 backgroundColor: (Highcharts.theme && Highcharts.theme.legendBackgroundColor) || '#FFFFFF'
             },
@@ -278,28 +304,41 @@ var Section1ResourcesPiling = function() {
                 dashStyle:'ShortDash'
 
             }, {
-                name: 'Monthly Resource Levelling (Nos)',
-                type: 'column',
-                color:'#0070C0',
-                data: [2,4,4,4,8,8,12,13,15,10,12,8,5,3,2,2,3,2,2,2],
-
-            }, {
                 name: 'Monthly Target (Nos)',
                 type: 'column',
                 color:'#8de031',
-                data: [1,2,3,3,6,8,15,16,17,12,14,11,7,4,2,2,2,2,2,1],
+                data: [2,4,4,4,8,8,12,13,15,10,12,8,5,3,2,2,3,2,2,2],
+
+            }, {
+                name: 'Monthly Actual (Nos)',
+                type: 'column',
+                color:'#0070C0',
+                data: [1,2,3,3,6,8,15,16,17,12,14,11,7],
 
             },{
-                name: 'Cumulative Target (Nos)',
+                name: 'Monthly Actual-Forecast (Nos)',
+                type: 'column',
+                color:'#FF0000',
+                data: [null,null,null,null,null,null,null,null,null,null,null,null,null,4,2,2,2,2,2,1],
+
+            },{
+                name: 'Cumulative Actual (Nos)',
                 type: 'spline',
                 yAxis: 1,
                 color:'#8600ad',
-                data: [1,3,6,9,15,23,38,54,71,83,97,108,115,119,121,123,125,126,128,129],
+                data: [1,3,6,9,15,23,38,54,71,83,97,108,115],
                 /*                marker: {
                                     enabled: false
                                 }*/
             },{
-                name: 'Cumulative Resource Levelling (Nos)',
+                name: 'Cumulative Actual-Forecast (Nos)',
+                type: 'spline',
+                yAxis: 1,
+                color:'#FF0000',
+                data: [null,null,null,null,null,null,null,null,null,null,null,null,null,119,121,123,125,126,128,129],
+                dashStyle:'ShortDash'
+            },{
+                name: 'Cumulative Target (Nos)',
                 type: 'spline',
                 yAxis: 1,
                 color:'#ffab05',
@@ -365,7 +404,7 @@ var Section1ResourcesPiling = function() {
                 align: 'left',
                 x: 120,
                 verticalAlign: 'top',
-                y: 40,
+                y: 10,
                 floating: true,
                 backgroundColor: (Highcharts.theme && Highcharts.theme.legendBackgroundColor) || '#FFFFFF'
             },
@@ -379,29 +418,42 @@ var Section1ResourcesPiling = function() {
                 },
                 dashStyle:'ShortDash'
 
-            }, {
-                name: 'Monthly Resource Levelling (Nos)',
-                type: 'column',
-                color:'#0070C0',
-                data: [2,3,4,4,6,8,8,9,12,6,5,5,5,5,5,3,3,2,2,2],
-
-            }, {
+            },{
                 name: 'Monthly Target (Nos)',
                 type: 'column',
                 color:'#8de031',
-                data: [1,2,4,8,12,14,10,11,8,7,4,4,3,4,4,4,4,3,1,1],
+                data: [2,3,4,4,6,8,8,9,12,6,5,5,5,5,5,3,3,2,2,2],
 
-            },{
-                name: 'Cumulative Target (Nos)',
+            }, {
+                name: 'Monthly Actual (Nos)',
+                type: 'column',
+                color:'#0070C0',
+                data: [1,2,4,8,12,14,10,11,8,7,4,4,3],
+
+            }, {
+                name: 'Monthly Actual-Forecast (Nos)',
+                type: 'column',
+                color:'#FF0000',
+                data: [null,null,null,null,null,null,null,null,null,null,null,null,null,4,4,4,4,3,1,1],
+
+            }, {
+                name: 'Cumulative Actual (Nos)',
                 type: 'spline',
                 yAxis: 1,
                 color:'#8600ad',
-                data: [1,3,7,15,27,41,51,62,70,77,81,85,88,92,96,100,104,107,108,109],
+                data: [1,3,7,15,27,41,51,62,70,77,81,85,88],
                 /*                marker: {
                                     enabled: false
                                 }*/
             },{
-                name: 'Cumulative Resource Levelling (Nos)',
+                name: 'Cumulative Actual-Forecast (Nos)',
+                type: 'spline',
+                yAxis: 1,
+                color:'#FF0000',
+                data: [null,null,null,null,null,null,null,null,null,null,null,null,null,92,96,100,104,107,108,109],
+                dashStyle:'ShortDash'
+            },{
+                name: 'Cumulative Target (Nos)',
                 type: 'spline',
                 yAxis: 1,
                 color:'#ffab05',
