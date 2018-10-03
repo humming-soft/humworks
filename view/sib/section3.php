@@ -2,9 +2,11 @@
 <html lang="en">
 <head>
     <?php include 'fragments/default_header.php' ?>
+    <script type="text/javascript" src="../../assets/js/charts/d3/d3.min.js"></script>
     <link href="../../assets/js/plugins/nano-gallery2/css/nanogallery.min.css" rel="stylesheet" type="text/css">
     <script src="../../assets/js/plugins/nano-gallery2/jquery.nanogallery.min.js"></script>
-    <script type="text/javascript" src="assets/js/section1.js"></script>
+    <script type="text/javascript" src="../../assets/js/charts/d3/support/liquidFillGauge.js"></script>
+    <script type="text/javascript" src="assets/js/section3.js"></script>
 </head>
 <body>
 <div class="navbar navbar-inverse">

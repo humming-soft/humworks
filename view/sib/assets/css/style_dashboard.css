@@ -417,21 +417,22 @@ float - plate_gis and stats
     font-size: 1.1em;
     z-index: 3001;
     font-weight: 600;
+    text-decoration: underline;
     /*transform: rotate(-90deg);*/
 
 }
 #pl_phase span a{
     color: rgba(0, 0, 0, 0.78);
 }
-#pl_phase span.set1 {top: 79%; left: 22%;}
-#pl_phase span.set2 {top: 79%; left: 25.2%;}
+#pl_phase span.set1 {top: 63%; left: 38%;}
+#pl_phase span.set2 {top: 25%; left: 58%;}
 #pl_phase span.set3 {top: 79%; left: 29.5%;}
 #pl_phase span.set4 {top: 79%; left: 32.7%;}
 #pl_phase span.set5 {top: 79%; left: 36.8%;}
 #pl_phase span.set6 {top: 79%; left: 40%;}
 #pl_phase span.set7 {top: 79%; left: 43.7%;}
 #pl_phase span.set8 {top: 79%; left: 47%;}
-#pl_phase span.set9 {top: 79%; left: 50.2%;}
+#pl_phase span.set9 {top: 63%; left: 75%;}
 
 
 /*	pl_package
@@ -450,7 +451,7 @@ float - plate_gis and stats
 #pl_package a.set1 {top: 96.7%; left: 37%;}
 #pl_package a.set2 {
     top: 50.3%;
-    right: -4%;
+    right: -3%;
     -webkit-transform: rotate(90deg);
     -moz-transform: rotate(90deg);
     -o-transform: rotate(90deg);
@@ -850,26 +851,26 @@ button.close {
 div.barchart_group div.barchart_lr div.barchart > div {
     position: absolute;
     width: 15%;
-    height: 20%;
+    height: 18%;
     left: 32%;
-    top: 63%;
+    top: 65%;
 }
 
 
 div.barchart_group div.barchart_lrR div.barchart > div {
     position: absolute;
     width: 15%;
-    height: 20%;
+    height: 18%;
     left: 68.7%;
-    top: 63%;
+    top: 65%;
 }
 
 div.barchart_group div.barchart_lrC div.barchart > div {
     position: absolute;
     width: 15%;
-    height: 20%;
+    height: 18%;
     left: 52%;
-    top: 23%;
+    top: 26%;
 }
 
 

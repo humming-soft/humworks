@@ -49,7 +49,7 @@
                         </div>
 
                         <div class="media-body">
-                            Code 1 Status
+                            Code 1 <span class="text-success-400 text-bold">(Accepted)</span>
                             <span class="label btn badge-success pull-right" style="padding: 7px 23px;">104</span>
                             <div class="media-annotation">2 hours ago</div>
                         </div>
@@ -61,7 +61,7 @@
                         </div>
 
                         <div class="media-body">
-                            Code 2 Status
+                            Code 2 <span class="text-orange text-bold">(Accepted with Comments)</span>
                             <span class="label btn badge-info pull-right" style="padding: 7px 23px;">5</span>
                             <div class="media-annotation">Dec 18, 18:36</div>
                         </div>
@@ -73,7 +73,7 @@
                         </div>
 
                         <div class="media-body">
-                            Code 3 Status
+                            Code 3 <span class="text-danger text-bold">(Rejected)</span>
                             <span class="label btn badge-danger circle pull-right" style="padding: 7px 23px;">0</span>
                             <div class="media-annotation">Dec 12, 05:46</div>
                         </div>

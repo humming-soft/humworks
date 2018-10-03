@@ -39,7 +39,6 @@
 <script type="text/javascript" src="../../assets/js/charts/highcharts/5.0.6/gantt/map.js"></script>
 <script type="text/javascript" src="../../assets/js/maps/highmaps/world.js"></script>
 
-<script type="text/javascript" src="../../assets/js/charts/d3/d3.v4.js"></script>
 
 <script type="text/javascript" src="../../assets/js/plugins/scrollbar/jquery.mCustomScrollbar.js"></script>
 

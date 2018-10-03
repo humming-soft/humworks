@@ -1,4 +1,4 @@
-<div class="panel panel-default panel-widget">
+<div class="panel panel-default panel-spi">
     <div class="panel-heading">
         <div class="panel-logo">
             <i class="icon-pie-chart5 position-left"></i>
@@ -14,7 +14,7 @@
     </div>
 
     <div class="panel-body">
-        <div class="row m-0" style="height: 250px; overflow: hidden; " data-mcs-theme="light">
+        <div class="row m-0" style="height: 222px; overflow: hidden; " data-mcs-theme="light">
             <div id="proj_spi" style="height:300px; width: 100%"></div>
         </div>
     </div>
