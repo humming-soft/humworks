@@ -29,7 +29,7 @@
                     </tr>
                     <tr class="set_center">
                         <td>68.00</td>
-                        <td>35.50</td>
+                        <td>30.50</td>
                         <td>41.00</td>
                         <td>-1.5w Early</td>
                         <td>-1.5w Late</td>

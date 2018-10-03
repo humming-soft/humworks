@@ -27,7 +27,6 @@
             <a href="#" class="dropdown-toggle" data-toggle="dropdown">
                 <i class="icon-strategy position-left"></i> Advanced <span class="caret"></span>
             </a>
-
             <ul class="dropdown-menu width-200">
                 <li class="dropdown-header">Project Management</li>
                 <li><a href="adv_check_print.php"><i class="icon-paragraph-justify3"></i> Advanced Check Point (ACP)</a></li>
@@ -42,7 +41,7 @@
     <ul class="nav navbar-nav navbar-right">
         <li>
             <a href="#">
-                <i class="fa fa-calendar-o" aria-hidden="true"></i> Today: <span id="current_date" class="text-danger"><b><?php echo date("d-M-Y")?></b></span>
+                <i class="fa fa-calendar-o" aria-hidden="true"></i> Today: <span id="current_date" class="text-danger"><b><?php echo strtoupper(date("d-M-Y"))?></b></span>
             </a>
         </li>
         <li>
