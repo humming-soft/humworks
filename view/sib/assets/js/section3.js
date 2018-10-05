@@ -359,7 +359,6 @@ $(document).ready(function(){
         });
 
     });
-
     function convertIntoMKB(labelValue) {
 
         // Nine Zeroes for Billions
