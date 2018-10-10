@@ -35,6 +35,7 @@
                 <li><a href="starters/layout_sidebar_sticky.html"><i class="icon-flip-vertical3"></i> Forecasting</a></li>
             </ul>
         </li>
+        <li><a href="issues.php"><i class="fa fa-lightbulb-o position-left"></i> Issue & Mitigation</a></li>
         <li><a href="procurement.php"><i class="icon-graph position-left"></i> Report</a></li>
     </ul>
 

@@ -49,14 +49,9 @@
                     <?php include 'portlets/portlet_activities_pier.php' ?>
                 </div>
                 <div class="col-lg-3">
-                    <?php include 'portlets/portlet_issue_mitigation.php' ?>
+                    <?php include 'portlets/portlet_issue_mitigation_pier.php' ?>
                 </div>
             </div>
-          <!--  <div class="row" >
-                <div class="col-lg-12">
-                    <?php /*include 'portlets/portlet_gallery.php' */?>
-                </div>
-            </div>-->
             <div class="row" hidden>
                 <div class="col-lg-3">
                     <?php include 'portlets/portlet_project_scurve.php' ?>
