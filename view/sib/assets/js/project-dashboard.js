@@ -21,7 +21,10 @@ var Dashboard = function() {
                    .attr('data-trigger', 'focus')
                    .attr('tabindex', 0);
 
-               $('svg .label').popover({ container: 'body' });
+              /* $('svg .label').popover({ container: 'body' });*/
+               $('svg .label').on("click",function(){
+                   window.location.href = "pier_info.php";
+               });
 
 /*               var svg = container.select('svg');
 
