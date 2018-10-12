@@ -4,9 +4,18 @@ $(document).ready(function(){
 	// line_chart_1
 
 	$(function () {
-        Highcharts.chart('bar1_acp', {
+        var chart = new Highcharts.Chart({
             chart: {
-                type: 'column'
+                type: 'column',
+                renderTo: 'bar1_acp',
+                events: {
+                    drilldown: function(e) {
+                        chart.setTitle({text: e.seriesOptions.name});
+                    },
+                    drillup: function(e) {
+                        chart.setTitle({ text: '' });
+                    }
+                }
             },
             title: {
                 text: ''
