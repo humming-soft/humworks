@@ -300,13 +300,13 @@ float - plate_gis and stats
 }
 
 #pcom_label span.set1 {top: 25.2%; left: 14%;}
-#pcom_label span.set2 {top: 35%; left: 13.9%; width: 30.22%; }
-#pcom_label span.set3 {top: 55.4%; left: 13.9%;}
-#pcom_label span.set4 {top: 55.4%; left: 34.14%;}
-#pcom_label span.set5 {top: 45.5%;left: 13.9%;}
-#pcom_label span.set6 {top: 45.5%; left: 24.03%;}
-#pcom_label span.set7 {top: 45.5%; left: 34.14%;}
-#pcom_label span.set8 {top: 55.5%; left: 24.03%;}
+#pcom_label span.set2 {top: 33%; left: 13.9%; width: 30.22%; }
+#pcom_label span.set3 {top: 54%; left: 13.9%;}
+#pcom_label span.set4 {top: 54%; left: 34.14%;}
+#pcom_label span.set5 {top: 43.5%;left: 13.9%;}
+#pcom_label span.set6 {top: 43.5%; left: 24.03%;}
+#pcom_label span.set7 {top: 43.5%; left: 34.14%;}
+#pcom_label span.set8 {top: 54%; left: 24.03%;}
 
 /*	pcom_value
 */

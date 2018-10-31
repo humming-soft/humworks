@@ -143,9 +143,9 @@
                                         <a id="pl_package_V202" href="#" class="set2">Cyberjaya North</a>
                                     </div>
                                     <div id="pl_phase">
-                                                  <span class="set1"><a href="section1.php">Section 1</a></span>
-                                                    <span class="set2"><a href="#">Section 2</a></span>
-                                                    <span class="set9"><a href="#">Section 3</a></span>
+                                                  <span class="set1"><a href="section1.php">Section 1(week)</a></span>
+                                                    <span class="set2"><a href="#">Section 2(week)</a></span>
+                                                    <span class="set9"><a href="#">Section 3(week)</a></span>
                                              <!--         <span class="set3"><a href="#">LRV</a></span>
                                                     <span class="set6"><a href="#">COM</a></span>
                                                     <span class="set4"><a href="#">DEMV</a></span>
