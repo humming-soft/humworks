@@ -85,7 +85,7 @@
     </ul>
 </div>
 <div id="key_concerns" class="modal fade bs-example-modal-lg" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel">
-    <div class="modal-dialog modal-dialog-centered"  role="document" style="width: 56%;">
+    <div class="modal-dialog modal-dialog-centered"  role="document" style="width: 70%;">
         <div class="modal-content override">
             <div class="modal-body" style="height: 256px">
                 <button type="button" class="close" data-dismiss="modal" aria-label="Close" style="color: white; padding: 7px; ">
