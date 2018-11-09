@@ -134,7 +134,7 @@
                                             <td><a href="#"  data-popup="tooltip" title="<b>LRT3-CON-7231</b> Site Preparation, Utility Relocation & Temporary Works 149 19-Jul-17"  data-html="true">LRT3-CON-7231</a></td>
                                             <td>10%</td>
                                             <td>19-Feb-2018</td>
-                                            <td><span class="fa fa-stop fa-3x " style="color:#e65c00" aria-hidden="true"></span></td>
+                                            <td><span class="fa fa-stop fa-3x " style="color:#e6de19" aria-hidden="true"></span></td>
                                             <td><button type="button" class="btn btn-danger btn-xs" data-popup="popover" title="<b>Mitigation</b>" data-html="true" data-content="1. DDC resubmit on 23-Jan-2017<br> 2. Tender drawings and Particular-Specification submitted to Prasarana/ICE on 02-feb-2017<br> 3. Recieved ICE's comments on 20-Feb-2017">Mitigation</button></td>
                                             <td><a href="#"><span class="fa fa-times" aria-hidden="true"></span></a></td>
                                         </tr>
@@ -150,14 +150,10 @@
                 </div>
                 <table align=" right" style="margin : 19px">
                     <tbody>
-
                     <tr>
-                        <td ><i style="color:#e65c00" class="icon-circle2"></i><span><strong style="padding:0 11px;"> In Pogress </strong></span> </td>
-                        <td ><i style="color:#36ee3f" class="icon-circle2"></i><span><strong style="padding:0 11px;"> Completed </strong></span> </td>
-                        <td ><i style="color:#f44336" class="icon-circle2"></i><span><strong style="padding:0 11px;"> Pending </strong></span> </td>
-
+                        <td ><i style="color:#e6de19" class="icon-circle2"></i><span><strong style="padding:0 11px;"> In Progress </strong></span> </td>
+                        <td ><i style="color:#e65c00" class="icon-circle2"></i><span><strong style="padding:0 11px;"> Pending </strong></span> </td>
                     </tr>
-
                     </tbody>
                 </table>
             </div>
