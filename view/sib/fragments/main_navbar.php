@@ -25,7 +25,7 @@
         </li>
 
         <li>
-            <a data-fancybox data-src="#trueModal" href="javascript:;">
+            <a data-fancybox data-src="#trueModal" href="javascript:;" data-toggle="modal" data-target="#key_concerns">
                 <i class="icon-bell3"></i>
                 <span class="visible-xs-inline-block position-right">Issues</span>
                 <span class="badge bg-warning-400">2</span>
@@ -83,4 +83,84 @@
             </ul>
         </li>
     </ul>
+</div>
+<div id="key_concerns" class="modal fade bs-example-modal-lg" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel">
+    <div class="modal-dialog modal-dialog-centered"  role="document" style="width: 56%;">
+        <div class="modal-content override">
+            <div class="modal-body" style="height: 256px">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close" style="color: white; padding: 7px; ">
+                    <span class="fa fa-times" aria-hidden="true"></span>
+                </button>
+                <div class="col-sm-6 col-md-12 portlet portlet_keydates">
+                    <div class="row content">
+                        <div class="col-md-12 portlet_title">
+                            <i class="fa_title_icon fa fa-tasks" aria-hidden="true"></i>
+                            Key Concerns
+                            <span class="plate_asof">(As of : 14 Jan 2017)</span>
+                        </div>
+                        <div class="col-md-12 portlet_content" >
+                            <div class="row height_x4 scrollbar-macosx" style="max-height: 380px;font-size: 12px;">
+                                <div class="col-md-12">
+                                    <table class="table table-style1 m-t-15">
+                                        <thead>
+                                        <tr>
+                                            <th>ID</th>
+                                            <th width="10%">DATE CREATED</th>
+                                            <th>DESCRIPTION</th>
+                                            <th width="14%">WBS ID</th>
+                                            <th>IMPACT</th>
+                                            <th>TARGET RESOLUTION (FORECAST)</th>
+                                            <th>STATUS</th>
+                                            <th></th>
+                                            <th></th>
+                                        </tr>
+                                        </thead>
+                                        <tbody>
+                                        <tr>
+                                            <td>KC10001</td>
+                                            <td>07-Jan-2018</td>
+                                            <td>Lof #11160-owner [Tan Num Ping] Pending land possession</td>
+                                            <td><a href="#"  data-popup="tooltip"  title="<b>LRT3-CON-7231</b> Site Preparation, Utility Relocation & Temporary Works 19-Jul-17"   data-html="true">LRT3-CON-7230</a></td>
+                                            <td>15%</td>
+                                            <td>25-Feb-2018</td>
+                                            <td><span class="fa fa-stop fa-3x " style="color:#e65c00" aria-hidden="true"></span></td>
+                                            <td><button type="button" class="btn btn-danger btn-xs" data-popup="popover" title="<b>Mitigation</b>" data-html="true" data-content="Court order for formal possession of land (Form K) will be held on the<br> 18-Jan-2018">Mitigation</button></td>
+                                            <td><a href="#"><span class="fa fa-times" aria-hidden="true"></span></a></td>
+                                        </tr>
+                                        <tr>
+                                            <td>KC10002</td>
+                                            <td>16-Jan-2018</td>
+                                            <td>Detailed design submission for TNB for power Transmission Line Relocation rejected</td>
+                                            <td><a href="#"  data-popup="tooltip" title="<b>LRT3-CON-7231</b> Site Preparation, Utility Relocation & Temporary Works 149 19-Jul-17"  data-html="true">LRT3-CON-7231</a></td>
+                                            <td>10%</td>
+                                            <td>19-Feb-2018</td>
+                                            <td><span class="fa fa-stop fa-3x " style="color:#e65c00" aria-hidden="true"></span></td>
+                                            <td><button type="button" class="btn btn-danger btn-xs" data-popup="popover" title="<b>Mitigation</b>" data-html="true" data-content="1. DDC resubmit on 23-Jan-2017<br> 2. Tender drawings and Particular-Specification submitted to Prasarana/ICE on 02-feb-2017<br> 3. Recieved ICE's comments on 20-Feb-2017">Mitigation</button></td>
+                                            <td><a href="#"><span class="fa fa-times" aria-hidden="true"></span></a></td>
+                                        </tr>
+
+                                        </tbody>
+                                    </table>
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+                <table align=" right" style="margin : 19px">
+                    <tbody>
+
+                    <tr>
+                        <td ><i style="color:#e65c00" class="icon-circle2"></i><span><strong style="padding:0 11px;"> In Pogress </strong></span> </td>
+                        <td ><i style="color:#36ee3f" class="icon-circle2"></i><span><strong style="padding:0 11px;"> Completed </strong></span> </td>
+                        <td ><i style="color:#f44336" class="icon-circle2"></i><span><strong style="padding:0 11px;"> Pending </strong></span> </td>
+
+                    </tr>
+
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
 </div>

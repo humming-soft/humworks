@@ -774,7 +774,7 @@ modal
 
 */
 .modal-open .modal {
-    z-index: 3001 !important;
+    z-index: 3002 !important;
 }
 
 .modal-content.override {
@@ -939,7 +939,113 @@ and (orientation : landscape) {
         left: 69%;
     }
 }
+span.plate_asof {
+    padding: 0 0 0 10px;
+    font-size: .8em;
+    color: #fc0;
+}
+.modal-content.override {
+    background: #112;
+    border: 1px solid #fff;
+}
 
+.modal-content.override .btn_ok {
+    padding: 10px 20px 20px;
+    text-align: right;
+}
+a {
+    font-style: normal;
+    text-decoration: none !important;
+    color: #0ff;
+}
+.btn-danger {
+    text-shadow: 0 -1px 0 rgba(0, 0, 0, .2);
+    -webkit-box-shadow: inset 0 1px 0 rgba(255, 255, 255, .15), 0 1px 1px rgba(0, 0, 0, .075);
+    box-shadow: inset 0 1px 0 rgba(255, 255, 255, .15), 0 1px 1px rgba(0, 0, 0, .075);
+}
+.btn-xs,
+.btn-group-xs > .btn {
+    padding: 1px 5px;
+    font-size: 12px;
+    line-height: 1.5;
+    border-radius: 3px;
+}
+
+/*.modal-dialog {
+    position: relative;
+    width: auto;
+    margin: 10px;
+}*/
+@media (min-width: 576px){
+    .modal-dialog-centered {
+        min-height: calc(100% - (1.75rem * 2));
+    }
+}
+@media (min-width: 576px) {
+    .modal-dialog {
+        margin: 1.75rem auto;
+    }
+}
+
+.modal-dialog-centered {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-align: center;
+    align-items: center;
+    min-height: calc(60% - (.5rem * 2));
+}
+.modal-body {
+    position: relative;
+    padding: 15px;
+}
+.fa-times:before {
+    content: "\f00d";
+}
+div.portlet_keydates div.content {
+    background: #252237;
+}
+div.portlet_keydates div.portlet_content {
+    padding-top: 10px;
+}
+div.portlet_keydates div.portlet_title {
+    color: #fff;
+}
+
+div.portlet_keydates thead {
+    background: #111;
+}
+
+div.portlet_keydates table {
+    font-size: .9em;
+}
+div.portlet_title {
+    padding: 5px 10px;
+    font-size: 1em;
+    color: #fff;
+    background: rgba(255,255,255,.3);
+    border-top-right-radius: 5px;
+    border-top-left-radius: 5px;
+}
+/*theader border*/
+div.portlet_keydates table th {
+    border-bottom: 1px solid #000 !important;
+    font-weight: normal;
+}
+div.portlet_keydates table .col_separation {
+    border-right: 2px solid #223;
+}
+
+/*tbody border*/
+div.portlet_keydates table tbody td {
+    border-bottom: 1px solid #669 !important;
+}
+button.close {
+    -webkit-appearance: none;
+    padding: 0;
+    cursor: pointer;
+    background: 0 0;
+    border: 0;
+}
 @media only screen
 and (min-device-width : 768px)
 and (max-device-width : 1024px)
